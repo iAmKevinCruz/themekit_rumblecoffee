@@ -1,0 +1,372 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-template",
+      "disabled": true,
+      "settings": {}
+    },
+    "16435891565a5eaaf5": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Artboard_18_47be23c7-4cb6-4c9f-af84-fc71c396398e.png",
+        "pretext": "",
+        "title": "SUSTAINABILITY & transparency",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "translucent_text_box",
+        "mobile_image": "shopify:\/\/shop_images\/Artboard_8.png",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164360299854d3ca7d": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164358955394f2f4be": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<p>We reckon it's more important than ever to be looking after the planet and the people on it, so we have a no-bullshit policy when it comes to sustainability and transparency. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16444638839cee7cce": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "164446388346de6a59-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "what is transparency?",
+            "heading_size": "regular_text",
+            "text": "<p>We talk a lot about transparent coffee. This means that we publish what we pay for each coffee, so you can feel great about your coffee, knowing it's supporting farmers and their communities. <br\/><br\/>We do this by (where possible) sharing the amount that the grower receives for each coffee. This is called the 'Farm Gate Price.' When this price is not available to us, we publish the amount that stays in the country of origin. This is called the F.O.B. or 'Free On Board' price. Our core belief is that numbers don't lie.<\/p><p>So this is our way of not just talking sustainability and fair pricing, but actually living it out. <br\/><br\/>We also publish where the coffee comes from - not just the country or the region, but the farm and growers. This is no easy feat, but we reckon it's important for the future of specialty coffee.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "164446388346de6a59-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "WHY NOT FAIR TRADE?",
+            "heading_size": "regular_text",
+            "text": "<p>We think fair trade pricing should be the minimum price for coffee. <br\/><br\/>We don't label our coffee as \"fair trade coffee,\" because we can do one better. We pay coffee growers well above the fair trade price, and the commodity price, and so we should - our coffee is specialty coffee, so there's a lot of work that goes into producing it, and growers should be paid well for that!<\/p><p>We believe that as a sustainable business, we should be paying sustainable prices for coffee.<\/p><p>We want to pay coffee producers well- so that they're earning enough not only to support themselves and their families, but also to invest into their businesses, and experiment with new varietals and growing techniques that favour environmental sustainability, and great tasting specialty coffee.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "1374a743-87df-4dd0-b27d-29e6d35bdfb9": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": false,
+            "title": "OUR ETHICS",
+            "heading_size": "regular_text",
+            "text": "<p>Our core belief is that numbers don’t lie. Committed to sharing all possible information regarding the prices we pay for our world-class coffees, we get a buzz from arming fellow coffee lovers with the tasty truth about what’s in your cup of Rumble brew.  <\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "164446388346de6a59-1",
+        "164446388346de6a59-0",
+        "1374a743-87df-4dd0-b27d-29e6d35bdfb9"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16436030310865b2be": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16435897278d09fe95": {
+      "type": "image-text",
+      "blocks": {
+        "1643589727bcc4c2d2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2871.jpg",
+            "image_crop": "none",
+            "title": "why?",
+            "text": "<p>The higher prices that we pay for our coffee means we're supporting fair wages in the communities we purchase our coffee from (many of which are in developing countries). <br\/>We believe that paying higher prices for our green coffee results in great coffee, and allows growers to invest into their businesses, and learn how to make their farms and crops more sustainable. <\/p><p><strong>We also believe it's the right thing to do.<\/strong><br\/><\/p><p>Pictured is our grower partners, Pablo and Daniela Rodriguez of Fincas Los Rodríguez in Bolivia. The Rodríguez family’s approach to coffee production is extremely methodical, innovative and scientific. As their business has progressed, they have consulted leading specialty coffee agronomists from around the world to help them produce exceptional coffee and build sustainable and healthy farms.<\/p>",
+            "button_label": "",
+            "link": "https:\/\/www.rumblecoffee.com.au\/pages\/wholesale-coffee",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "1643589727bcc4c2d2-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6046_copy.jpg",
+            "image_crop": "none",
+            "title": "RETAIL COFFEE",
+            "text": "<p>Specialty coffee, produced by a team of coffee roasters who live, breathe and love Melbourne's coffee scene. That's Rumble. Whatever your favourite brewing method is, we've got some of the best single origins and blends in Melbourne, and we'll ship it right to your door. <br\/><br\/>You can trust that our coffee has been sourced sustainably. We pay farmers well for their excellent coffee, we publish what we pay for each coffee, and we're doing our best to ensure we're looking after the planet in the process. <br\/>Specialty coffee, that's good for the world? Come Rumble with us.<\/p>",
+            "button_label": "SHOP NOW",
+            "link": "https:\/\/www.rumblecoffee.com.au\/collections\/coffee-blends-single-origin-coffee",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "efec67cd-97ef-4818-9a9a-7c2b86a42d01": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_dd4aeb4e-ac85-4bd7-b969-72fef3b2c858.png",
+            "image_crop": "none",
+            "title": "ESPRESSO BAR",
+            "text": "<p>Keen to try our coffee? The Rumble espresso bar, located in our Kensington roastery, is any coffee lovers' dream. Our little cafe is where we showcase our beans, and it's become a spot for specialty coffee in Melbourne. Here, you can get yourself a brew, or a bag of great coffee beans, whilst discovering more about the roasting process of Melbourne's best coffee.  <br\/><br\/>Drop by, we'd love to meet you, and share our love of excellent coffee!<\/p>",
+            "button_label": "VISIT",
+            "link": "https:\/\/www.google.com\/maps\/dir\/-37.7946112,144.932864\/google+maps+rumble+coffee\/@-37.7937091,144.9311452,17z\/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x6ad65d19ecdd4ffb:0x5f59d1c003840901!2m2!1d144.9344661!2d-37.7924395",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "f7a563e7-2f9d-4c3c-9101-7c6fbfaa0339": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6338_06c496ec-cfa4-4b65-9ba6-ae3e1b22ce34.jpg",
+            "image_crop": "none",
+            "title": "ZAC MC CRACKEN",
+            "text": "<p><strong>Dispatch and Delivery<\/strong><\/p><p>Zac heads up everything dispatch-related, and ensuring the seamless flow from the Rumble roastery to our cafes. When he's not busy sending out coffee orders or bagging beans, he spends his time in the world of music, DJ-ing his way around Melbourne, and volunteering for local community radio station, PBS. As well as DJ-ing, he also runs and organises club nights and dance music events.<\/p><p><em><strong>“I find one of the best ways to get to know a place is to find where all the best cafes are. Generally that’s where you find the cultural hubs and bustle of community. It’s interesting to me to see how differently coffee is consumed across the world and how much coffee culture can vary dependant on where you are.<\/strong><\/em><\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "b1a2cae8-b909-47b6-af17-c4dfd891e04d": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3646_copy_63ab1f6c-9178-4bfa-8754-fda0617b8b54.jpg",
+            "image_crop": "none",
+            "title": "Carly Beissel",
+            "text": "<p><strong>Roastery Assistant<\/strong><\/p><p>A true all-rounder, you'll often find Carly bagging beans alongside Zac, running deliveries to our many wholesale customers, or assisting in our espresso bar. On her days off, Carly studies engineering, and explores the best brunch and adventure spots around Melbourne.<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "361058a3-5962-4072-9b30-973a0402310f": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4759_fcae44ec-8d06-476f-8e59-a2e476250459.jpg",
+            "image_crop": "none",
+            "title": "NATSUMI SHIMADA",
+            "text": "<p><strong>Espresso Bar Manager<\/strong><\/p><p>Natsumi is the newest addition to our team, and she heads up the espresso bar at the Rumble roastery. Natsumi is a true coffee aficionado, who makes each coffee with care and skill. When she's not at Rumble HQ, you'll find her exploring cafes around Melbourne or practising yoga.<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "1643589727bcc4c2d2-0",
+        "1643589727bcc4c2d2-1",
+        "efec67cd-97ef-4818-9a9a-7c2b86a42d01",
+        "f7a563e7-2f9d-4c3c-9101-7c6fbfaa0339",
+        "b1a2cae8-b909-47b6-af17-c4dfd891e04d",
+        "361058a3-5962-4072-9b30-973a0402310f"
+      ],
+      "settings": {
+        "wide_display": true,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1646178545bc556733": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1655782950478a2af3": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "16557829501d87f1c2-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "THE PLEDGE",
+            "heading_size": "regular_text",
+            "text": "<p>The Pledge was started with the goal of creating a common standard for transparency reporting, which is applicable throughout the coffee world. <\/p><p>The Pledge aims to set an example for the coffee industry by openly communicating how much coffee roasters pay for green beans, with the goal of<strong> ensuring a fair price is paid to everyone along the supply chain<\/strong>. By signing \"The Pledge,\" Rumble agrees to share a fixed set of variables when reporting how much we pay for green coffee purchases. <\/p>",
+            "button_label": "THE PLEDGE",
+            "button_link": "https:\/\/www.transparency.coffee\/about\/",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "16557829501d87f1c2-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "WORLD COFFEE RESEARCH",
+            "heading_size": "regular_text",
+            "text": "<p>World Coffee Research, or WCR, is a non-profit, collaborative research and development program of the global coffee industry. It's aim is to grow, protect, and enhance supplies of quality coffee while improving the livelihood of the families who produce it. <\/p><p>By donating financially to this worthy cause, we are helping to <strong>ensure the long-term supply and availability of high quality coffee.<\/strong><\/p>",
+            "button_label": "WCR",
+            "button_link": "https:\/\/worldcoffeeresearch.org\/about",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "164bef2b-760a-40f4-8efb-f78e1d94e5b6": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "SPECIALTY COFFEE TRANSACTION guide",
+            "heading_size": "regular_text",
+            "text": "<p>The Specialty Coffee Transaction Guide is an annual, and collaborative initiative that generates <strong>new, more relevant pricing benchmarks for specialty coffees.<\/strong> Transaction Guide benchmarks serve as an alternative for the current reliance on the volatile commodity-market price. <\/p><p>This helps to <strong>ensure farmers get paid what they should<\/strong>, and informs producers and roasters alike of current pricing standards. <\/p>",
+            "button_label": "SCTG",
+            "button_link": "https:\/\/www.transactionguide.coffee\/en\/home",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "16557829501d87f1c2-0",
+        "16557829501d87f1c2-1",
+        "164bef2b-760a-40f4-8efb-f78e1d94e5b6"
+      ],
+      "settings": {
+        "title": "INITIATIVES we're involved in",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1654231883ae335457": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "title": "what about sustainability",
+        "content": "<p>Along with <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "regular_text",
+        "text_alignment": "align_left",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1643589790faf9939a": {
+      "type": "text-columns-with-images",
+      "disabled": true,
+      "blocks": {
+        "164358979045d6a1f1-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image": "shopify:\/\/shop_images\/IMG_6344.jpg",
+            "title": "WHAT ABOUT SUSTAINABILITY?",
+            "heading_size": "regular_text",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "164358979045d6a1f1-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Add a title or tagline",
+            "heading_size": "regular_text",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "164358979045d6a1f1-0",
+        "164358979045d6a1f1-1"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1654233417b2fb438f": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "transparency blogs",
+        "blog_widget_select": "transparency-project",
+        "home_page_articles": 4,
+        "blog_tags": false,
+        "blog_author": false,
+        "read_time": false,
+        "blog_date": true,
+        "blog_comment_count": true,
+        "read_more_link": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16435891565a5eaaf5",
+    "164360299854d3ca7d",
+    "164358955394f2f4be",
+    "16444638839cee7cce",
+    "16436030310865b2be",
+    "16435897278d09fe95",
+    "1646178545bc556733",
+    "1655782950478a2af3",
+    "1654231883ae335457",
+    "1643589790faf9939a",
+    "1654233417b2fb438f"
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "wrapper": "div.shopify-section-wrapper.section",
+  "sections": {
+    "sidebar": {
+      "type": "product-sidebar",
+      "disabled": true,
+      "blocks": {
+        "7dfe3d64-3427-403b-8434-b7ec12609c4a": {
+          "type": "recently_viewed",
+          "settings": {
+            "sidebar_rv_title": "Recently Viewed",
+            "sidebar_rv_per": 3
+          }
+        }
+      },
+      "block_order": [
+        "7dfe3d64-3427-403b-8434-b7ec12609c4a"
+      ],
+      "settings": {
+        "toggle": false
+      }
+    },
+    "main": {
+      "type": "product-template",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "1b749fc8-a729-410b-adc8-e56656e31c9d": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "f20c625f-4988-4b0b-8050-e4f84d26ee5b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ product.metafields.my_fields.top_description | metafield_tag }}<\/p>"
+          }
+        },
+        "a28526e7-c071-4caf-b1df-0e2e23fa80ab": {
+          "type": "form",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        },
+        "ff810e37-4a75-4997-ae01-160c3fed1b86": {
+          "type": "size-chart",
+          "disabled": true,
+          "settings": {
+            "size_chart": ""
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "1b749fc8-a729-410b-adc8-e56656e31c9d",
+        "f20c625f-4988-4b0b-8050-e4f84d26ee5b",
+        "a28526e7-c071-4caf-b1df-0e2e23fa80ab",
+        "description",
+        "share",
+        "ff810e37-4a75-4997-ae01-160c3fed1b86"
+      ],
+      "settings": {
+        "product_breadcrumb": true,
+        "media_position": "is-flex-row",
+        "set_product_height": false,
+        "product_height": 500,
+        "video_looping": false,
+        "product_thumbs": true,
+        "gallery_arrows": true,
+        "enable_product_lightbox": true,
+        "activate_zoom": true,
+        "slideshow_speed": 0,
+        "slideshow_animation": "slide",
+        "thumbnail_position": "bottom",
+        "enable_thumbnail_slider": true
+      }
+    },
+    "165327274683cc76c9": {
+      "type": "apps",
+      "blocks": {
+        "7d8ee26b-5fb9-46d9-88e1-15a059471c83": {
+          "type": "shopify:\/\/apps\/guarantees-features-icons\/blocks\/app-block\/f266baeb-ce2c-482c-9bf1-f719b4920aaa",
+          "settings": {
+            "block_id": "ee098534-17fb-4022-87b5-2b8272aeb73b",
+            "spacing_top": 0,
+            "spacing_bottom": 0,
+            "spacing_left": 0,
+            "spacing_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "7d8ee26b-5fb9-46d9-88e1-15a059471c83"
+      ],
+      "settings": {}
+    },
+    "1636334946679a44dc": {
+      "type": "image-text",
+      "blocks": {
+        "210527d2-2633-4c3f-aafd-6cc1e780771a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_2_aaba64de-5ab1-4c90-858d-6135c07f3d09.png",
+            "image_crop": "none",
+            "title": "WHY IS RUMBLES’ DECAF SO DAMN TASTY?",
+            "text": "<p>Just like regular coffee, you need to buy high-quality green coffee beans.<br\/><br\/>It’s grown in the Popayan region of Colombia in the department of Cauca as part of the Popayan Reserve Program of our Colombian partners <a href=\"https:\/\/cofinet.com.au\/\" title=\"Cofinet Colombian Coffee Growers and Exporters\">Cofinet<\/a>. Grown high in the hills (1500 -1900 MASL) and is a blend of Caturra, Colombia and Castillo varietals.<br\/><br\/>During harvest, up to 400 people can be employed picking the coffee beans. There are 67 farms involved in the program, all selected and committed to offering sweet, balanced coffees that score at least 83 points.<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff6ec",
+            "text_color": ""
+          }
+        },
+        "11da79b8-669b-493e-9f46-d1b6a56072e1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_1169.jpg",
+            "image_crop": "center",
+            "title": "HOW DO YOU GET THE CAFFEINE OUT OF THOSE BEANS?",
+            "text": "<p>Once picked and sorted, the green coffee is sent off to be decaffeinated at the <a href=\"https:\/\/www.descafecol.com\/en\/decaffeinated-products\/\" target=\"_blank\" title=\"DESAFECOL website\">DESAFECOL<\/a> plant. The process uses a natural ethyl acetate made from local sugar cane and spring water to wash the caffeine away.<br\/><br\/>Decaffeinating in Colombia keeps added value in their economy, and reduces the food miles (and emissions!) it takes to get the beans into your hands compared to other decafinating methods.<\/p><p>While the process leaves a minute amount of ethyl acetate, it is 20 times less than that in a ripe banana. Any residue then evaporates during the roasting process.<\/p><p>This process extracts caffeine without excessive heat damaging the cell wall. Keeping the cells intact means the coffee roasts better than other methods. <a href=\"https:\/\/www.rumblecoffee.com.au\/blogs\/news\/decaf-coffee-yes-it-can-be-delicious\" title=\"https:\/\/www.rumblecoffee.com.au\/blogs\/news\/decaf-coffee-yes-it-can-be-delicious\">Read more about the decafinating process<\/a>.<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff6ec",
+            "text_color": ""
+          }
+        },
+        "1636334946679a44dc-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_18.png",
+            "image_crop": "center",
+            "title": "Transparency Information",
+            "text": "<p>At Rumble, we keep it Transparent, and publish all our purchasing data, so you can be sure your coffee is supporting the farmers and regions it's grown. <br\/><br\/>F.O.B AUD per kilo {{ product.metafields.my_fields.fob.value }}<\/p><p>C’Market price {{ product.metafields.my_fields.c_market_price.value }}<\/p><p>Fair Trade minimum {{ product.metafields.my_fields.fair_trade_minimum.value }}<\/p><p>{{ product.metafields.my_fields.percentaboveft.value }} Higher than the fair trade minimum.<br\/><br\/>Read more about our commitment to fair coffee pricing in our 2020 Transparency Report <\/p>",
+            "button_label": "Read More",
+            "link": "shopify:\/\/pages\/2020-transparency-report",
+            "bg_color": "#fff6ec",
+            "text_color": ""
+          }
+        },
+        "1636334946679a44dc-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_6_20a9e35f-a807-4a8f-88b2-c7266ab1a501.png",
+            "image_crop": "center",
+            "title": "Make a killer espresso",
+            "text": "<p>Let <a href=\"https:\/\/www.instagram.com\/rumblerecipes\" target=\"_blank\" title=\"Rumble Recipes Instagram Page\">Rumble Recipes<\/a> take the hard work out of dialling in your espresso. <br\/><br\/>Start with our espresso recipe and you'll be pulling the perfect espresso shot in no time at all.<br\/><br\/><strong>Dose:<\/strong> {{ product.metafields.my_fields.dose.value }}g<br\/><strong>Yield:   <\/strong>{{ product.metafields.my_fields.yield.value }}g<br\/><strong>Time:<\/strong>  {{ product.metafields.my_fields.time.value }}sec<br\/><strong>Temp:<\/strong>  {{ product.metafields.my_fields.temp.value }}<br\/><br\/><\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff6ec",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "210527d2-2633-4c3f-aafd-6cc1e780771a",
+        "11da79b8-669b-493e-9f46-d1b6a56072e1",
+        "1636334946679a44dc-1",
+        "1636334946679a44dc-0"
+      ],
+      "settings": {
+        "wide_display": true,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "163694429068fe5796": {
+      "type": "testimonial",
+      "disabled": true,
+      "blocks": {
+        "1636944289252b84a5-0": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "testimonial": "<p>Include some of your favorite customer quotes and feedback here as social proof, to build credibility and trust for your services and products.<\/p>",
+            "name": "Mark A.",
+            "store_name": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center",
+            "mobile_image_crop": "none",
+            "caption_content_background": "original"
+          }
+        }
+      },
+      "block_order": [
+        "1636944289252b84a5-0"
+      ],
+      "settings": {
+        "wide_display": true,
+        "testimonial_text_animation": "fadeInDown",
+        "testimonial_speed": 6,
+        "activate_adaptiveHeight": false,
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "product-reviews": {
+      "type": "product-reviews",
+      "settings": {}
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "rv_title": "Recently viewed products",
+        "rv_products_style": "grid",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_style": "grid",
+        "product_recommendations_heading": "You may also like",
+        "products_per_row": 4,
+        "recommended_products_limit": 4
+      }
+    }
+  },
+  "order": [
+    "sidebar",
+    "main",
+    "165327274683cc76c9",
+    "1636334946679a44dc",
+    "163694429068fe5796",
+    "product-reviews",
+    "recently-viewed",
+    "recommendations"
+  ]
+}

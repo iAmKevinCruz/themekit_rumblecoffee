@@ -1,0 +1,151 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-template",
+      "settings": {}
+    },
+    "1643592756674c52a7": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled-1_2000x_8379202a-3919-4b9c-92b3-81cdbc5c2e63.jpg",
+        "title": "COFFEE MACHINE SERVICING WITH RUMBLE",
+        "content": "<p>As a cafe owner, keeping your coffee machine operating at its best while having no downtime is crucial to your success.<\/p><p><\/p><p>Routine coffee machine servicing ensures you make fantastic coffee all the time. It also means you are doing everything to ensure your equipment doesn’t break down during service.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "regular_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16435928562712d808": {
+      "type": "featured-text",
+      "settings": {
+        "title": "Why quality equipment matters",
+        "content": "<p>The best way is to start with the best equipment. For that reason, we only recommend <a href=\"https:\/\/au.lamarzocco.com\/about\/la-marzocco-australia\/\" target=\"_blank\" title=\"La Marzocco Australia Website\">La Marzocco<\/a> espresso machines to our <a href=\"https:\/\/www.rumblecoffee.com.au\/pages\/wholesale\" target=\"_blank\" title=\"Rumble Coffee Wholesale Information \">wholesale <\/a>customers. They don’t just make delicious and consistent coffee, but their build quality and value for money are the best in the business. <br\/><\/p><p>We also advise you to buy new coffee machines. Second hand machinery can often be cheaper, but you need to factor in the extra cost of a full service. There are often unexpected issues lurking that you won’t know about until something goes wrong. Recently we bought a secondhand espresso machine for <a href=\"https:\/\/cobbscoffee.com.au\/\" target=\"_blank\" title=\"Cobb's Coffee Website\">Cobb’s Coffee<\/a> (a La Marzocco PB), gave it a full service and it was going great. Then, six months after we opened, a crack developed in the boiler and it needed a full replacement at a cost of over $3,000.<\/p><p>But, what about <em>(insert hot new coffee machine here)<\/em>? No doubt they make great coffee, but what about their upkeep? How often does a technician visit? How long will they last?<\/p><p>Are the people raving about these machines selling them? Who is paying for the servicing? Take the advice of the barista using them with a grain of salt. Try to talk to whoever bought the machines and pays to service them.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "regular_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1643592913b1a66d45": {
+      "type": "featured-text",
+      "settings": {
+        "title": "How we handle Coffee Machine servicing at Rumble Coffee",
+        "content": "<p>We work with the best in the business, the mighty <a href=\"https:\/\/www.brewtech.com.au\/\" title=\"Brewtech Website\">Brewtech<\/a>. Based around the corner from us in Kensington, Brewtech are the licensed technicians for La Marzocco and have kept our machines humming since we started. They’ve recently become the licensed importers for <a href=\"https:\/\/www.mahlkoenig.de\/\" target=\"_blank\" title=\"Mahlkönig Website\">Mahlkönig<\/a> and now look after our favourite coffee grinders.<\/p><p>We run a preventative maintenance program with Brewtech. Their skilled technicians visit your cafe every 3-6 months, depending on your coffee volume. They change your water filters, shower screens, seals and rebuild steam wands. A regular, general service like this avoids most problems. But if trouble strikes, they are also available for emergency call-outs.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "regular_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1643593091e3c1c599": {
+      "type": "gallery",
+      "blocks": {
+        "1643593091d12e0481-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_dd4aeb4e-ac85-4bd7-b969-72fef3b2c858.png"
+          }
+        },
+        "1643593091d12e0481-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5906_copy.jpg"
+          }
+        },
+        "1643593091d12e0481-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_2fc73895-8857-4dbb-9c40-b4e29401ac1a.png"
+          }
+        },
+        "1643593091d12e0481-3": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        },
+        "1643593091d12e0481-4": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        },
+        "1643593091d12e0481-5": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        },
+        "1643593091d12e0481-6": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        },
+        "1643593091d12e0481-7": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "1643593091d12e0481-1",
+        "1643593091d12e0481-0",
+        "1643593091d12e0481-2",
+        "1643593091d12e0481-3",
+        "1643593091d12e0481-4",
+        "1643593091d12e0481-5",
+        "1643593091d12e0481-6",
+        "1643593091d12e0481-7"
+      ],
+      "settings": {
+        "wide_display": true,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 3,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16435930194448ac26": {
+      "type": "featured-text",
+      "settings": {
+        "title": "What about different machines?",
+        "content": "<p>For repairs outside the La Marzocco\/Mahlkönig universe, then we recommend <a href=\"https:\/\/coffeeformarco.com.au\/\" target=\"_blank\" title=\"Coffee For Marco Website\">Coffee For Marco<\/a>. Marco is an experienced technician who carries a wide range of spare parts for various machines and coffee grinders.<\/p><p>If you need help with your domestic machine, an automatic coffee machine or your office coffee machines, then talk to <a href=\"https:\/\/servicesphere.com.au\/\" target=\"_blank\" title=\"Service Sphere Website\">Service Sphere<\/a>. Their service centre in North Melbourne carries a large range of spare parts for most major brands (Rancillio, La Cimbali and Faema, to name a few).<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "regular_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1643593088db308dd9": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "title": "What about different machines?",
+        "content": "<p>For repairs outside the La Marzocco\/Mahlkönig universe, then we recommend <a href=\"https:\/\/coffeeformarco.com.au\/\" target=\"_blank\" title=\"Coffee For Marco Website\">Coffee For Marco<\/a>. Marco is an experienced technician who carries a wide range of spare parts for various machines and coffee grinders.<\/p><p>If you need help with your domestic machine, an automatic coffee machine or your office coffee machines, then talk to <a href=\"https:\/\/servicesphere.com.au\/\" target=\"_blank\" title=\"Service Sphere Website\">Service Sphere<\/a>. Their service centre in North Melbourne carries a large range of spare parts for most major brands (Rancillio, La Cimbali and Faema, to name a few).<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "regular_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643592756674c52a7",
+    "16435928562712d808",
+    "1643592913b1a66d45",
+    "1643593091e3c1c599",
+    "16435930194448ac26",
+    "1643593088db308dd9"
+  ]
+}

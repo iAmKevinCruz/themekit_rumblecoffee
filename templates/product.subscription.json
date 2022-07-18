@@ -1,0 +1,175 @@
+{
+  "wrapper": "div.shopify-section-wrapper.section",
+  "sections": {
+    "sidebar": {
+      "type": "product-sidebar",
+      "disabled": true,
+      "settings": {
+        "toggle": false
+      }
+    },
+    "main": {
+      "type": "product-template",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "1b749fc8-a729-410b-adc8-e56656e31c9d": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        },
+        "a28526e7-c071-4caf-b1df-0e2e23fa80ab": {
+          "type": "form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "1b749fc8-a729-410b-adc8-e56656e31c9d",
+        "description",
+        "share",
+        "a28526e7-c071-4caf-b1df-0e2e23fa80ab"
+      ],
+      "settings": {
+        "product_breadcrumb": true,
+        "media_position": "is-flex-row",
+        "set_product_height": false,
+        "product_height": 500,
+        "video_looping": false,
+        "product_thumbs": true,
+        "gallery_arrows": true,
+        "enable_product_lightbox": true,
+        "activate_zoom": true,
+        "slideshow_speed": 0,
+        "slideshow_animation": "slide",
+        "thumbnail_position": "bottom",
+        "enable_thumbnail_slider": true
+      }
+    },
+    "16387687799bfb1c78": {
+      "type": "apps",
+      "blocks": {
+        "43c68048-9b32-428d-81a4-c4a193287639": {
+          "type": "shopify:\/\/apps\/guarantees-features-icons\/blocks\/app-block\/f266baeb-ce2c-482c-9bf1-f719b4920aaa",
+          "settings": {
+            "block_id": "7b7d8eae-3b31-4ee8-adb2-71ec9afea870",
+            "spacing_top": 0,
+            "spacing_bottom": 0,
+            "spacing_left": 0,
+            "spacing_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "43c68048-9b32-428d-81a4-c4a193287639"
+      ],
+      "settings": {}
+    },
+    "1638768557ff8ce57b": {
+      "type": "image-text",
+      "blocks": {
+        "1638768557ee685036-0": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.my_fields.primary_image.value }}",
+            "image_crop": "none",
+            "title": "{{ product.metafields.my_fields.subs_firstheading.value }}",
+            "text": "<p>{{ product.metafields.my_fields.subs_firstdescription | metafield_tag }}<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff3e7",
+            "text_color": ""
+          }
+        },
+        "1216b785-e8e1-44ba-b44f-d4bb33cff699": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HowMuchCoffeeDoINeed_5000x_3e24d8cc-d392-4999-ade0-32f6df551f03.webp",
+            "image_crop": "none",
+            "title": "How much coffee do I need?",
+            "text": "<p>We recommend ordering enough to cover you for 4-6 weeks at a time, and set your schedule to the period it takes you to go through a 1kg bag.<br\/><br\/>Why?<br\/><br\/>Coffee has a sweet spot for brewing from roasting to around 6 weeks before the flavours begin to taper off.<br\/><br\/>Shipping 1kg uses less packaging, fewer delivery kilometers and associated emissions, and it will taste great.<br\/><br\/>Need less? No problems at all! Our 250gm bags are available too!<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff6ec",
+            "text_color": ""
+          }
+        },
+        "1638768557ee685036-1": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.my_fields.secondary_image.value }}",
+            "image_crop": "center",
+            "title": "Better Than Ethically sourced",
+            "text": "<p>At Rumble, we pride ourselves on keeping you informed on every step of how we source our world-class coffee, and ensure we pay our farmers fairly so that we can all invest in a sustainable future.<br\/><br\/><a href=\"https:\/\/www.rumblecoffee.com.au\/pages\/2019\">We keep it 100% transparent with all the information on our supply chain<\/a>, from who we bought it from to exactly how much we paid for it.<br\/><br\/>And our coffee is damn good. <\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff3e7",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "1638768557ee685036-0",
+        "1216b785-e8e1-44ba-b44f-d4bb33cff699",
+        "1638768557ee685036-1"
+      ],
+      "settings": {
+        "wide_display": true,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "rv_title": "Recently viewed products",
+        "rv_products_style": "grid",
+        "rv_max_display": 6,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_style": "grid",
+        "product_recommendations_heading": "You may also like",
+        "products_per_row": 3,
+        "recommended_products_limit": 4
+      }
+    },
+    "product-reviews": {
+      "type": "product-reviews",
+      "settings": {}
+    }
+  },
+  "order": [
+    "sidebar",
+    "main",
+    "16387687799bfb1c78",
+    "1638768557ff8ce57b",
+    "recently-viewed",
+    "recommendations",
+    "product-reviews"
+  ]
+}

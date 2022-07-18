@@ -1,0 +1,206 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-template",
+      "settings": {}
+    },
+    "1643598296a51dd6e4": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Banner_-_Contract_Roasting_1200_x_350.jpg",
+        "pretext": "",
+        "title": "First Press Coffee",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image": "shopify:\/\/shop_images\/Banner_-_Contract_Roasting_1200_x_600.jpg",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16435965467a8170cc": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<p>First Press was born out of the desire to create a healthy, sustainable ready to drink iced coffee that was low in sugar, organic and ethically sourced, and tasted awesome, we knew that sourcing for these needs was going to be a challenge, but one that we could really feel good about. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16435965525baf0a53": {
+      "type": "image-text",
+      "blocks": {
+        "164359655251a96305-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FP_WEB_030_small_5e8f2fd7-7fd0-4fb6-9df7-6ce24c7b5c35.jpg",
+            "image_crop": "center",
+            "title": "Full Flavour, No Sugar",
+            "text": "<p>In a sea of high sugar, dairy-based drinks aimed squarely at non-coffee drinkers, the founders at First Press knew there was an opportunity in the market for an iced coffee that tastes like coffee, without the sugar content of a soft drink.<\/p><p>Producing a unique, cold dripped coffee using their own custom-made equipment First Press are front and centre to the healthy coffee options in Australia, and they sit next to some of the biggest internationally owned brands at big supermarkets.<\/p><p>Now growing their export market, First Press are shaping the healthy ready to drink coffee industry across the globe. <\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "c9fbcc0c-d2b3-48cf-ac2c-b9d257f05e40": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MG_4527_1200x_1630d40b-8a4b-4eb7-a5c1-8d0604af25a9.jpg",
+            "image_crop": "center",
+            "title": "Small but mighty",
+            "text": "<p>Founders Jimmy and Hamish saw the potential for a ‘better for you' convenient specialty coffee. A locally made grab and go style brew without the sugar, dairy, and additives.<\/p><p>Many markets and tastings later First Press Coffee is now available at health food stores, independent and leading supermarkets around Australia.<\/p><p>From production and logistics to sales and marketing First Press Coffee is about hard work, good fun and amazing coffee.<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "164359655251a96305-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FP_Styled_SQ_41.jpg",
+            "image_crop": "none",
+            "title": "Hello from Honduras",
+            "text": "<p>When Hamish and Jimmy first approached us to supply coffee, they were looking to scale up their production from small batch runs, and work with a supplier that could not just support their growth and deliver outstanding specialty coffee, but be committed to supporting the regions that coffee is grown in.<\/p><p>We source a coffee specifically for First Press; an organic washed coffee from Honduras, that provides an outstanding balance of sweetness and acidity that really shines in their cold drip. <\/p>",
+            "button_label": "Visit First PRess",
+            "link": "https:\/\/www.firstpresscoffee.com\/",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "164359655251a96305-0",
+        "c9fbcc0c-d2b3-48cf-ac2c-b9d257f05e40",
+        "164359655251a96305-1"
+      ],
+      "settings": {
+        "wide_display": true,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1645398853a7807f62": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<p>Rumble’s dedication to transparency and quality is an absolute blessing to the coffee industry. It’s simply about trust. We know that they will work tirelessly at finding us the best coffee for our products, and telling us exactly the conditions of where our coffee is sourced. Like anything that grows from the land, there will always be challenges and variances over time. <\/p><p><\/p><p>Rumble have risen to this challenge by being proactive, ahead of the curve and bringing us the solutions before they become issues. We feel like we have an ally to First Press that will happily navigate any trench we find ourself situated. This helps us feel confident to focus on our unique set of skills to grow the First Press Brand brand.<\/p><p>Their work on transparency is pioneering a new way that all businesses can learn from. We know how much they buy their coffee for, we know the hard work they do to find us great coffee. Their service goes beyond anything we have experienced in business. They are teaching us that the very core of what we were taught in traditional business to hide, that is cost of goods sold, can be expressed and used as an asset to bring more customers who trust their brand.<\/p><p>We are incredibly grateful for our relationship with Rumble, and we simply do not know where we would be if we hadn’t worked with them.<br\/><\/p><p><strong>- Jimmy Elias<br\/>Co Founder, First Press Merchants<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164419532424dabd68": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1643596573f9090714": {
+      "type": "gallery",
+      "blocks": {
+        "1643596573f529ebe5-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FP_Styled_SQ_7.jpg"
+          }
+        },
+        "1643596573f529ebe5-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FP_SQ_064.jpg"
+          }
+        },
+        "1643596573f529ebe5-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FP_Styled_SQ_49.jpg"
+          }
+        },
+        "1643596573f529ebe5-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FP_NewColours__1_SQ.jpg"
+          }
+        },
+        "1643596573f529ebe5-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FP_NewColours__90_SQ.jpg"
+          }
+        },
+        "1643596573f529ebe5-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FP_Styled_SQ_44.jpg"
+          }
+        },
+        "1643596573f529ebe5-6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FP_WEB_030_small_5e8f2fd7-7fd0-4fb6-9df7-6ce24c7b5c35.jpg"
+          }
+        },
+        "1643596573f529ebe5-7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FP_Styled_SQ_41.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "1643596573f529ebe5-0",
+        "1643596573f529ebe5-3",
+        "1643596573f529ebe5-2",
+        "1643596573f529ebe5-1",
+        "1643596573f529ebe5-5",
+        "1643596573f529ebe5-4",
+        "1643596573f529ebe5-6",
+        "1643596573f529ebe5-7"
+      ],
+      "settings": {
+        "wide_display": true,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 4,
+        "enable_lightbox": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643598296a51dd6e4",
+    "16435965467a8170cc",
+    "16435965525baf0a53",
+    "1645398853a7807f62",
+    "164419532424dabd68",
+    "1643596573f9090714"
+  ]
+}

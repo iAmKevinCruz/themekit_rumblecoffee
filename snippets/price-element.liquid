@@ -1,0 +1,12 @@
+{% comment %}
+Required values
+price: <product price>
+{% endcomment %}
+<span class="Bold-theme-hook-DO-NOT-DELETE bold_cart_item_price" data-item-key="{{item.key}}" style="display:none !important;"></span>
+
+
+{% if settings.currency_format == 'money_with_currency_format' %}
+  {{ price | money_with_currency }}
+{% else %}
+  {{ price | money }}
+{% endif %}

@@ -1,0 +1,458 @@
+{
+  "sections": {
+    "163848837219190348": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Untitled-3.jpg",
+        "pretext": "",
+        "title": "PUQPRESS",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "translucent_text_box",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1638507283ef9e2543": {
+      "type": "featured-text",
+      "settings": {
+        "title": "PUQPRESS",
+        "content": "<p>An automatic coffee tamper is an excellent addition to your coffee bar, and it's one of the fastest growing barista tools in the australian specialty coffee industry. An automatic tamper saves time, and it's precision technology allows you to get the perfect shot extraction whilst having a consistent tamping experience. <\/p><p>The Puqpress is the original and (in our experience) the best. Baristas will appreciate the time saved, as well as the consistency in pressure, and in the highly competitive industry such as hospitality, consistency is key. The Puqpress Q2 is compatible with a variety of different portafilters, and offers adjustable tamp pressure, and perfectly compressed coffee grounds. Today's industry standards demand perfection, and manual tamping doesn't consistently deliver. The puqpress automatic tamper is the perfect addition to your venue, whether you are a small cafe, or a fast-paced restaurant.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "regular_text",
+        "text_alignment": "align_left",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1638505809ecf26083": {
+      "type": "content-page",
+      "disabled": true,
+      "settings": {
+        "content_page": "wholesale-equipment",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1638505716076e95a9": {
+      "type": "image-text",
+      "disabled": true,
+      "blocks": {
+        "1638505716b6d2852f-0": {
+          "type": "image",
+          "settings": {
+            "image_crop": "none",
+            "title": "Your headline",
+            "text": "<p>Promotion description appears here.<\/p>",
+            "button_label": "View all",
+            "link": "",
+            "bg_color": "",
+            "text_color": ""
+          }
+        },
+        "1638505716b6d2852f-1": {
+          "type": "image",
+          "settings": {
+            "image_crop": "none",
+            "title": "Your headline",
+            "text": "<p>Promotion description appears here.<\/p>",
+            "button_label": "View all",
+            "link": "",
+            "bg_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "1638505716b6d2852f-0",
+        "1638505716b6d2852f-1"
+      ],
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16384883305a4fd143": {
+      "type": "image-text",
+      "blocks": {
+        "163848833025670b8d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4856copy_e19f0aa8-4459-4b86-8253-4df24e9df75e.jpg",
+            "image_crop": "none",
+            "title": "Features",
+            "text": "<p>- 5 to 30kg pressure range<br\/>- 53 to 58.3mm tamp diameter<br\/>- Non-stick finish<\/p>",
+            "button_label": "PRODUCT SHEET",
+            "link": "https:\/\/www.puqpress.com\/products\/puq-q-line\/puqpress-q2\/#single\/0",
+            "bg_color": "#fff2de",
+            "text_color": ""
+          }
+        },
+        "163848833025670b8d-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2058_copy.jpg",
+            "image_crop": "none",
+            "title": "FEATURES",
+            "text": "<p>- Available as 2\/3\/4 Grouphead<br\/>- Digital Display<br\/>- USB <br\/>- Eco Mode<\/p>",
+            "button_label": "PRODUCT SHEET",
+            "link": "https:\/\/international.lamarzocco.com\/wp-content\/uploads\/2019\/08\/product_brochure_linea_pb_eng.pdf",
+            "bg_color": "#fff2de",
+            "text_color": ""
+          }
+        },
+        "954fc726-74e8-4787-83a1-402a430ad6c4": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5906_copy.jpg",
+            "image_crop": "none",
+            "title": "LINEA CLASSIC",
+            "text": "<p>An iconic machine that has stood the test of time, The La Marzocco Linea Classic is a great quality machine that is sleek and simple in design, and has been the reliable workhorse of coffee shops for years.<\/p>",
+            "button_label": "LEARN MORE",
+            "link": "",
+            "bg_color": "#fff2de",
+            "text_color": ""
+          }
+        },
+        "3e8d0773-17f5-4b1a-a23a-ed578ca062a8": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4712_copy.jpg",
+            "image_crop": "none",
+            "title": "BREVILLE BAMBINO PLUS",
+            "text": "<p>One of the best home coffee machines, the Breville Bambino Plus is a great quality machine to deliver delicious coffee at home. Level up from your coffee pod machines with one of the best home espresso machines, and you'll be whipping up creamy cappuccinos or the perfect flat white in no time.<\/p>",
+            "button_label": "BUY NOW",
+            "link": "shopify:\/\/products\/breville-bambino-plus",
+            "bg_color": "#fff2de",
+            "text_color": ""
+          }
+        },
+        "ccfa9a2d-0ea8-4651-b909-cb58cc8a9366": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5528_copy.jpg",
+            "image_crop": "none",
+            "title": "PUQPRESS",
+            "text": "<p>A good coffee tamper makes all the difference for the perfect espresso and consistent pressure throughout the extraction process. Inconsistent tamping pressure results in uneven extraction, which isn't what you want! Puqpress is an automatic coffee tamper, resulting in a consistent tamping experience, and perfect shot extraction.<\/p>",
+            "button_label": "learn more",
+            "link": "",
+            "bg_color": "#fff2de",
+            "text_color": ""
+          }
+        },
+        "6c00a5d9-f2ce-4d56-b2bc-9ef555dca1c9": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5420_copy.jpg",
+            "image_crop": "none",
+            "title": "Mahlkönig E80",
+            "text": "<p>A high quality burr coffee grinder is what sets your coffee apart, and the Mahlkönig E80 is one of the best coffee grinders on the market. The perfect addition to your cafe set up, the E80 is incredibly precise and Mahlkonig's Disk Distance Detection enables accurate and exact degrees of fineness.<\/p>",
+            "button_label": "LEARN MORE",
+            "link": "",
+            "bg_color": "#fff2de",
+            "text_color": ""
+          }
+        },
+        "466ef3ea-17b6-4a97-b9da-d8fbeaa999a7": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7823_copy.jpg",
+            "image_crop": "none",
+            "title": "Mahlkönig EK43",
+            "text": "<p>The Mahlkonig EK43 is a versatile and practical addition to any cafe. With an incredibly quick grind time, and perfect grind sizes, however you make your coffee, this coffee grinder is a great choice for rotating single origins, or when you need the versatility of varied but precise grind size.<\/p>",
+            "button_label": "learn more",
+            "link": "",
+            "bg_color": "#fff2de",
+            "text_color": ""
+          }
+        },
+        "2a5c5062-80e9-4d30-a7a0-23509ddb42dc": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4708_copy.jpg",
+            "image_crop": "none",
+            "title": "Mahlkönig E65s",
+            "text": "<p>The Mahlkonig e65s gbw coffee grinder is one of the newest commercial coffee grinders on the market. This grinder boasts modern design, and sleek German workmanship, and its' grind by weight technology keeps up to the demand of high volume cafes.<\/p>",
+            "button_label": "learn more",
+            "link": "",
+            "bg_color": "#fff2de",
+            "text_color": ""
+          }
+        },
+        "7a26dab0-ae3d-4ac6-859e-fd69ce5fe65b": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4702_copy.jpg",
+            "image_crop": "none",
+            "title": "Mahlkönig x54 allround HOME",
+            "text": "<p>For those of you home coffee enthusiasts, looking to level up your coffee game, the Mahlkonig x54 All-round Home grinder, is the best machine on the market. This new model allows you to experience the joy of specialty coffee, all from the comfort of your home.<\/p>",
+            "button_label": "Buy now",
+            "link": "",
+            "bg_color": "#fff2de",
+            "text_color": ""
+          }
+        },
+        "a615c086-73a2-43a3-8f27-7c30090cce12": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4706_copy.jpg",
+            "image_crop": "none",
+            "title": "BREVILLE SMART GRINDER PRO",
+            "text": "<p>Coffee lovers- rejoice. The Breville Smart Grinder Pro is a reliable high quality electric coffee grinder, perfect for home, and best of all, it won't break the bank. Level up from stale pre ground coffee, and enjoy the delight of freshly ground coffee. So whether you're a French press afficionado, or you're all about an espresso coffee, this trusty home grinder is the perfect addition to your home set-up.<\/p>",
+            "button_label": "BUY NOW",
+            "link": "",
+            "bg_color": "#fff2de",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "163848833025670b8d-0",
+        "163848833025670b8d-1",
+        "954fc726-74e8-4787-83a1-402a430ad6c4",
+        "3e8d0773-17f5-4b1a-a23a-ed578ca062a8",
+        "ccfa9a2d-0ea8-4651-b909-cb58cc8a9366",
+        "6c00a5d9-f2ce-4d56-b2bc-9ef555dca1c9",
+        "466ef3ea-17b6-4a97-b9da-d8fbeaa999a7",
+        "2a5c5062-80e9-4d30-a7a0-23509ddb42dc",
+        "7a26dab0-ae3d-4ac6-859e-fd69ce5fe65b",
+        "a615c086-73a2-43a3-8f27-7c30090cce12"
+      ],
+      "settings": {
+        "wide_display": true,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1638830486428fcf11": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_2058_copy_15b9ca8a-dd26-467f-9ad8-d38251f45b79.jpg",
+        "title": "Talk about your brand",
+        "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "contact-custom-template",
+      "blocks": {
+        "3f02bf75-3083-4694-b628-92ea96e81ffc": {
+          "type": "richtext",
+          "settings": {
+            "label": "<p>Name<\/p>",
+            "placeholder": "Name",
+            "required": true,
+            "field_type": "text"
+          }
+        },
+        "c1938754-f67d-48f5-b2ae-a233a094e6c8": {
+          "type": "richtext",
+          "settings": {
+            "label": "<p>Business Name<\/p>",
+            "placeholder": "Business Name",
+            "required": false,
+            "field_type": "text"
+          }
+        },
+        "da983102-8b9a-4539-8e97-cb689d50cfc1": {
+          "type": "richtext",
+          "settings": {
+            "label": "<p>Email<\/p>",
+            "placeholder": "Email",
+            "required": true,
+            "field_type": "email"
+          }
+        },
+        "7bbb06ca-2d41-4c21-b9e6-5340f9721984": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "label": "<p>Phone Number<\/p>",
+            "placeholder": "Phone Number",
+            "required": false,
+            "field_type": "text"
+          }
+        },
+        "76a655f0-d320-496a-8e12-ae32a4f55e68": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "label": "Type of Business",
+            "placeholder": "Make a selection",
+            "required": true,
+            "options_1": "Cafe",
+            "options_2": "Bar\/Pub\/Restaurant",
+            "options_3": "Office",
+            "options_4": "Coffee Cart",
+            "options_5": "",
+            "options_6": "",
+            "field_type": "drop_down"
+          }
+        },
+        "63f0ec41-7eac-423c-b27e-6b4695c1afdb": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "label": "<p>Espresso Machine Type (if known)<\/p>",
+            "placeholder": "Espresso Machine Type (if known)",
+            "required": false,
+            "field_type": "text"
+          }
+        },
+        "82d5be36-b2eb-4b0f-a89e-3a8018f40af7": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "label": "<p>Grinder Machine Type (if known)<\/p>",
+            "placeholder": "Grinder Machine Type (if known)",
+            "required": false,
+            "field_type": "text"
+          }
+        },
+        "feca7717-a011-4c41-a848-594ec22e505e": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "label": "<p>Estimated Volume (kg) per week\/month<\/p>",
+            "placeholder": "",
+            "required": false,
+            "field_type": "text"
+          }
+        },
+        "a34ec388-9797-44ac-b965-88cbed72c987": {
+          "type": "custom",
+          "settings": {
+            "label": "How did you hear about us",
+            "placeholder": "Make a selection",
+            "required": false,
+            "options_1": "Google",
+            "options_2": "Online",
+            "options_3": "Recommendation",
+            "options_4": "Other",
+            "options_5": "",
+            "options_6": "",
+            "field_type": "drop_down"
+          }
+        },
+        "4de83445-1d1b-47ba-b600-1be7a84902de": {
+          "type": "richtext",
+          "settings": {
+            "label": "<p>Message<\/p>",
+            "placeholder": "Message",
+            "required": false,
+            "field_type": "textarea"
+          }
+        }
+      },
+      "block_order": [
+        "3f02bf75-3083-4694-b628-92ea96e81ffc",
+        "c1938754-f67d-48f5-b2ae-a233a094e6c8",
+        "da983102-8b9a-4539-8e97-cb689d50cfc1",
+        "7bbb06ca-2d41-4c21-b9e6-5340f9721984",
+        "76a655f0-d320-496a-8e12-ae32a4f55e68",
+        "63f0ec41-7eac-423c-b27e-6b4695c1afdb",
+        "82d5be36-b2eb-4b0f-a89e-3a8018f40af7",
+        "feca7717-a011-4c41-a848-594ec22e505e",
+        "a34ec388-9797-44ac-b965-88cbed72c987",
+        "4de83445-1d1b-47ba-b600-1be7a84902de"
+      ],
+      "settings": {
+        "wide_display": true,
+        "mobile_image_crop": "none",
+        "contact_heading": "WHOLESALE ENQUIRIES",
+        "subtitle": "",
+        "caption_content_background": "translucent_text_box",
+        "contact_subheading": "CONTACT US FOR MACHINE PRICING",
+        "contact_content": "",
+        "contact_text_position": "center",
+        "contact_text_alignment": "left",
+        "contact_social_buttons": false
+      }
+    },
+    "16388327017833f3ac": {
+      "type": "text-columns-with-images",
+      "disabled": true,
+      "blocks": {
+        "1638832701dd086b0d-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "title": "Add a title or tagline",
+            "heading_size": "regular_text",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "1638832701dd086b0d-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "title": "Add a title or tagline",
+            "heading_size": "regular_text",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "1638832701dd086b0d-0",
+        "1638832701dd086b0d-1"
+      ],
+      "settings": {
+        "title": "Text columns with images",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "163848837219190348",
+    "1638507283ef9e2543",
+    "1638505809ecf26083",
+    "1638505716076e95a9",
+    "16384883305a4fd143",
+    "1638830486428fcf11",
+    "main",
+    "16388327017833f3ac"
+  ]
+}

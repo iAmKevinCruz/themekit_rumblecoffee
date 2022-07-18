@@ -1,0 +1,229 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-template",
+      "disabled": true,
+      "settings": {}
+    },
+    "16435891565a5eaaf5": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Artboard_20_300x-100.jpg",
+        "pretext": "",
+        "title": "MEET THE TEAM",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image": "shopify:\/\/shop_images\/Artboard_4_c35e1285-d5b8-46fc-99ab-a0a5b5a4e344.png",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164360299854d3ca7d": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164358955394f2f4be": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<p>Rumble Coffee is run by a dedicated and tight-knit team, passionate about transforming the coffee industry from the inside out. Our team is united by a common goal of creating a sustainable future for coffee, where everyone in the supply chain is paid fairly, and coffees are sourced with integrity and transparency.<br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16436030310865b2be": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 5,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16435897278d09fe95": {
+      "type": "image-text",
+      "blocks": {
+        "1643589727bcc4c2d2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6344_b217a291-eb04-43b4-b192-41010be10d55.jpg",
+            "image_crop": "none",
+            "title": "JOE MOLLOY",
+            "text": "<p><strong>Director (Business Development)<br\/><\/strong><\/p><p>Joe began making coffee as a teenager. Working at a busy Israeli kebab shop in Wellington, NZ, the business’ owner allowed the young and passionate Joe to share his coffee skills with customers only after perfecting his boss’ morning brew. Owning a busy Melbourne cafe, Joe’s quest for quality coffee supply, led him to roasting the beans himself. This self-starter legacy drives his passion for helping Rumble clients increase their sales and get the most from their business.<br\/><\/p><p><em><strong>“My favourite part of my job is helping cafe owners sell more coffee. Plus, after twenty years in the industry, I still love drinking coffee more and more with each passing day.”<\/strong><\/em><\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "1643589727bcc4c2d2-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6228_8beb3705-efa5-4c70-8528-e9ad315f7d31.jpg",
+            "image_crop": "none",
+            "title": "MATT HAMPTON",
+            "text": "<p><strong>Director (Head Roaster)<br\/><\/strong><\/p><p>For nearly two decades, Matt worked around the world as a prominent chef and restauranteur. He loves the craft of sourcing, and highlighting the characteristics of each Rumble coffee. His work as Head Roaster for a successful social enterprise not only introduced him to Joe, but also sparked his passion for ethical sourcing practices. Often on the road nurturing Rumble’s important face-to-face relationships at origin, Matt is deeply proud of Rumble’s Transparency Project.<\/p><p><em><strong>“Challenging the supply chain to do better for the people who need it most, while offering the very best coffee is the Rumble way. We want to leave the industry better than we found it.<\/strong><\/em><em>” <\/em><\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "efec67cd-97ef-4818-9a9a-7c2b86a42d01": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6319_8dac74fe-4758-49fa-89ed-defb567a6fca.jpg",
+            "image_crop": "none",
+            "title": "ALEX COLE",
+            "text": "<p><strong>Roaster, Quality Control<\/strong><\/p><p>Alex’s skills in olfaction (smelling things) first came to the attention of Matt and Joe when he worked as a barista at Joe’s previous business, Octane. These days, if he’s not glued to the roasters and keenly watching the lines, Alex is likely travelling, spending time in nature, or building his very own tiny house. A true craftsman of both house and bean, Alex holds a Q-Grader Certification, the highest possible industry qualification for assessing specialty coffee. Senses to rival the best!<\/p><p><em><strong>“Coffee, to me, is a window into nature. By understanding coffee, we can understand more about how our interaction with the world can be better balanced.”<\/strong><\/em><\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "f7a563e7-2f9d-4c3c-9101-7c6fbfaa0339": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6338_06c496ec-cfa4-4b65-9ba6-ae3e1b22ce34.jpg",
+            "image_crop": "none",
+            "title": "ZAC MC CRACKEN",
+            "text": "<p><strong>Dispatch and Delivery<\/strong><\/p><p>Zac heads up everything dispatch-related, and ensuring the seamless flow from the Rumble roastery to our cafes. When he's not busy sending out coffee orders or bagging beans, he spends his time in the world of music, DJ-ing his way around Melbourne, and volunteering for local community radio station, PBS. As well as DJ-ing, he also runs and organises club nights and dance music events.<\/p><p><em><strong>“I find one of the best ways to get to know a place is to find where all the best cafes are. Generally that’s where you find the cultural hubs and bustle of community. It’s interesting to me to see how differently coffee is consumed across the world and how much coffee culture can vary dependant on where you are.<\/strong><\/em><\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "b1a2cae8-b909-47b6-af17-c4dfd891e04d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5644_copy.jpg",
+            "image_crop": "none",
+            "title": "Carly Beissel",
+            "text": "<p><strong>Roastery Assistant<\/strong><\/p><p>A true all-rounder, you'll often find Carly bagging beans alongside Zac, running deliveries to our many wholesale customers, or assisting in our espresso bar. On her days off, Carly studies engineering, and explores the best brunch and adventure spots around Melbourne.<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "361058a3-5962-4072-9b30-973a0402310f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5681_copy.jpg",
+            "image_crop": "none",
+            "title": "NATSUMI SHIMADA",
+            "text": "<p><strong>Espresso Bar Manager<\/strong><\/p><p>Natsumi is the newest addition to our team, and she heads up the espresso bar at the Rumble roastery. Natsumi is a true coffee aficionado, who makes each coffee with care and skill. When she's not at Rumble HQ, you'll find her exploring cafes around Melbourne or practising yoga.<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "e1ec9ce9-e006-42ce-bcd9-39a3e3192526": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7260_copy.jpg",
+            "image_crop": "none",
+            "title": "TIM NEILSON",
+            "text": "<p><strong>Training Coordinator<br\/><\/strong><\/p><p>Our newest addition to the Rumble family, Tim has been living and breathing coffee for a number of years, having worked in some of Melbourne’s best coffee shops, including our very own Cobbs Coffee. When he’s not recipe testing our new coffees, or on the road visiting our wholesale customers, you’ll find him playing jazz music and studying civil engineering.<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "1643589727bcc4c2d2-0",
+        "1643589727bcc4c2d2-1",
+        "efec67cd-97ef-4818-9a9a-7c2b86a42d01",
+        "f7a563e7-2f9d-4c3c-9101-7c6fbfaa0339",
+        "b1a2cae8-b909-47b6-af17-c4dfd891e04d",
+        "361058a3-5962-4072-9b30-973a0402310f",
+        "e1ec9ce9-e006-42ce-bcd9-39a3e3192526"
+      ],
+      "settings": {
+        "wide_display": true,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1643589790faf9939a": {
+      "type": "text-columns-with-images",
+      "disabled": true,
+      "blocks": {
+        "164358979045d6a1f1-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IMG_6344.jpg",
+            "title": "JOE MOLLOY",
+            "heading_size": "regular_text",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "164358979045d6a1f1-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "title": "Add a title or tagline",
+            "heading_size": "regular_text",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "164358979045d6a1f1-0",
+        "164358979045d6a1f1-1"
+      ],
+      "settings": {
+        "title": "Text columns with images",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16435891565a5eaaf5",
+    "164360299854d3ca7d",
+    "164358955394f2f4be",
+    "16436030310865b2be",
+    "16435897278d09fe95",
+    "1643589790faf9939a"
+  ]
+}

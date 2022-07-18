@@ -1,0 +1,246 @@
+{
+  "wrapper": "div.shopify-section-wrapper.section",
+  "sections": {
+    "sidebar": {
+      "type": "product-sidebar",
+      "disabled": true,
+      "blocks": {
+        "7dfe3d64-3427-403b-8434-b7ec12609c4a": {
+          "type": "recently_viewed",
+          "settings": {
+            "sidebar_rv_title": "Recently Viewed",
+            "sidebar_rv_per": 3
+          }
+        }
+      },
+      "block_order": [
+        "7dfe3d64-3427-403b-8434-b7ec12609c4a"
+      ],
+      "settings": {
+        "toggle": false
+      }
+    },
+    "main": {
+      "type": "product-template",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "1b749fc8-a729-410b-adc8-e56656e31c9d": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "0cef518a-f335-4ac2-bda6-41336171d07c": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>On our quest to find a great small farmer in Guatemala with the help of exporter, Stephany Davila, we met the wonderful Marlon Del Valle and family. They’ve been tending to their outstanding crops for over 25 years.<\/p><p>When the Del Valle family matriarch and legendary pillar of El Valle’s coffee production, María Eugenia passed on ownership of the farm to Marlon, his brother Rudelfi and family, a new generation of coffee farmers was born.<\/p>"
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        },
+        "ff810e37-4a75-4997-ae01-160c3fed1b86": {
+          "type": "size-chart",
+          "disabled": true,
+          "settings": {
+            "size_chart": ""
+          }
+        },
+        "a28526e7-c071-4caf-b1df-0e2e23fa80ab": {
+          "type": "form",
+          "settings": {}
+        },
+        "ad8cf62e-f851-4d81-bf10-0b01eff084cc": {
+          "type": "shopify:\/\/apps\/guarantees-features-icons\/blocks\/app-block\/f266baeb-ce2c-482c-9bf1-f719b4920aaa",
+          "disabled": true,
+          "settings": {
+            "block_id": "8b54e0cc-6e99-4b58-ac31-2e5008c7647d",
+            "spacing_top": 0,
+            "spacing_bottom": 0,
+            "spacing_left": 0,
+            "spacing_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "1b749fc8-a729-410b-adc8-e56656e31c9d",
+        "description",
+        "0cef518a-f335-4ac2-bda6-41336171d07c",
+        "share",
+        "ff810e37-4a75-4997-ae01-160c3fed1b86",
+        "a28526e7-c071-4caf-b1df-0e2e23fa80ab",
+        "ad8cf62e-f851-4d81-bf10-0b01eff084cc"
+      ],
+      "settings": {
+        "product_breadcrumb": true,
+        "media_position": "is-flex-row",
+        "set_product_height": false,
+        "product_height": 500,
+        "video_looping": false,
+        "product_thumbs": true,
+        "gallery_arrows": true,
+        "enable_product_lightbox": true,
+        "activate_zoom": true,
+        "slideshow_speed": 0,
+        "slideshow_animation": "slide",
+        "thumbnail_position": "bottom",
+        "enable_thumbnail_slider": true
+      }
+    },
+    "16532764449bc6ebcd": {
+      "type": "apps",
+      "blocks": {
+        "190287aa-2a18-47fd-88a7-a6e06d169bdf": {
+          "type": "shopify:\/\/apps\/guarantees-features-icons\/blocks\/app-block\/f266baeb-ce2c-482c-9bf1-f719b4920aaa",
+          "settings": {
+            "block_id": "ee098534-17fb-4022-87b5-2b8272aeb73b",
+            "spacing_top": 0,
+            "spacing_bottom": 0,
+            "spacing_left": 0,
+            "spacing_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "190287aa-2a18-47fd-88a7-a6e06d169bdf"
+      ],
+      "settings": {}
+    },
+    "1636334946679a44dc": {
+      "type": "image-text",
+      "blocks": {
+        "11da79b8-669b-493e-9f46-d1b6a56072e1": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.my_fields.primary_image.value }}",
+            "image_crop": "center",
+            "title": "Supporting the regions it's grown",
+            "text": "<p>{{ product.metafields.my_fields.primary_text_grower | metafield_tag }}<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff6ec",
+            "text_color": "#0a2240"
+          }
+        },
+        "1636334946679a44dc-1": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.my_fields.third_image.value }}",
+            "image_crop": "none",
+            "title": "Transparency Information",
+            "text": "<p>At Rumble, we keep it transparent, and publish all our purchasing data, so you can be sure your coffee is supporting the farmers and regions it's grown. <br\/><br\/>F.O.B AUD per kilo {{ product.metafields.my_fields.fob.value }}<\/p><p>C’Market price {{ product.metafields.my_fields.c_market_price.value }}<\/p><p>Fair Trade minimum {{ product.metafields.my_fields.fair_trade_minimum.value }}<\/p><p>{{ product.metafields.my_fields.percentaboveft.value }} Higher than the fair trade minimum.<br\/><br\/>Read more about our commitment to fair coffee pricing in our <a href=\"https:\/\/www.rumblecoffee.com.au\/pages\/2020-transparency-report\" title=\"Rumble Coffee Transparency 2020 Report\">2020 Transparency Report <\/a><\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff6ec",
+            "text_color": ""
+          }
+        },
+        "1636334946679a44dc-0": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.my_fields.secondary_image.value }}",
+            "image_crop": "none",
+            "title": "Make a killer espresso",
+            "text": "<p>Let <a href=\"https:\/\/www.instagram.com\/rumblerecipes\" target=\"_blank\" title=\"Rumble Recipes Instagram Page\">Rumble Recipes<\/a> take the hard work out of dialling in your espresso. <br\/><br\/>Start with our espresso recipe and you'll be pulling the perfect espresso shot in no time at all.<br\/><br\/><strong>Dose: <\/strong>{{ product.metafields.my_fields.dose.value }}g<br\/><strong>Yield: <\/strong>{{ product.metafields.my_fields.yield.value }}g<br\/><strong>Time: <\/strong>{{ product.metafields.my_fields.time.value }}sec<br\/><strong>Temp: <\/strong>{{ product.metafields.my_fields.temp.value }}<br\/><br\/><\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff6ec",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "11da79b8-669b-493e-9f46-d1b6a56072e1",
+        "1636334946679a44dc-1",
+        "1636334946679a44dc-0"
+      ],
+      "settings": {
+        "wide_display": true,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "163694429068fe5796": {
+      "type": "testimonial",
+      "disabled": true,
+      "blocks": {
+        "1636944289252b84a5-0": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "testimonial": "<p>Include some of your favorite customer quotes and feedback here as social proof, to build credibility and trust for your services and products.<\/p>",
+            "name": "Mark A.",
+            "store_name": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center",
+            "mobile_image_crop": "none",
+            "caption_content_background": "original"
+          }
+        }
+      },
+      "block_order": [
+        "1636944289252b84a5-0"
+      ],
+      "settings": {
+        "wide_display": true,
+        "testimonial_text_animation": "fadeInDown",
+        "testimonial_speed": 6,
+        "activate_adaptiveHeight": false,
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "product-reviews": {
+      "type": "product-reviews",
+      "settings": {}
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "rv_title": "Recently viewed products",
+        "rv_products_style": "grid",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_style": "grid",
+        "product_recommendations_heading": "You may also like",
+        "products_per_row": 4,
+        "recommended_products_limit": 4
+      }
+    }
+  },
+  "order": [
+    "sidebar",
+    "main",
+    "16532764449bc6ebcd",
+    "1636334946679a44dc",
+    "163694429068fe5796",
+    "product-reviews",
+    "recently-viewed",
+    "recommendations"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "sections": {
+    "1646367660fff8b019": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Artboard_32_67c78d85-215b-4b9d-b713-f2b7e426a79e.png",
+        "pretext": "",
+        "title": "ESPRESSO BAR",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "translucent_text_box",
+        "mobile_image": "shopify:\/\/shop_images\/Artboard_19.png",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "page-template",
+      "disabled": true,
+      "settings": {}
+    },
+    "1646368804b84695e7": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16463679563a8f7e35": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<p>In March 2021, we launched our very own espresso bar. Designed to showcase the very best coffee that Rumble Coffee Roasters has to offer, our cozy cafe just west of Melbourne CBD, offers a rotating menu of specialty coffee. Great coffee, which has been sourced and roasted with transparency and quality in mind, a friendly team, and delicious pastries courtesy of Cobb Lane. It's the perfect place to drop past for a coffee and bag of beans for home, all whilst getting a glimpse into the specialty coffee roasting world which Melbourne is known for.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "regular_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164636882301764efd": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164636882645233ace": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "custom_html": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164636897058ecfd93": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "1646368970e1a6b450-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "OPENING HOURS",
+            "heading_size": "regular_text",
+            "text": "<p>8:30 - 2:30 Monday - Friday<br\/>Closed Weekends<br\/>Closed Public Holidays<br\/><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "1646368970e1a6b450-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "VISIT US",
+            "heading_size": "regular_text",
+            "text": "<p>8 Thompson Street,<br\/>Kensington, 3031<br\/>Melbourne, VIC<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "4598a4d4-1d0d-4677-a1af-6da314f0b190": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "CONTACT",
+            "heading_size": "regular_text",
+            "text": "<p>03 7034 0271 <br\/>shop@rumblecoffee.com.au<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "1646368970e1a6b450-0",
+        "1646368970e1a6b450-1",
+        "4598a4d4-1d0d-4677-a1af-6da314f0b190"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "1646367660fff8b019",
+    "main",
+    "1646368804b84695e7",
+    "16463679563a8f7e35",
+    "164636882301764efd",
+    "164636882645233ace",
+    "164636897058ecfd93"
+  ]
+}

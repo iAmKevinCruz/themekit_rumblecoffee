@@ -1,0 +1,333 @@
+{
+  "wrapper": "div.shopify-section-wrapper.section",
+  "sections": {
+    "main": {
+      "type": "product-template",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "1b749fc8-a729-410b-adc8-e56656e31c9d": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "0cef518a-f335-4ac2-bda6-41336171d07c": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>On our quest to find a great small farmer in Guatemala with the help of exporter, Stephany Davila, we met the wonderful Marlon Del Valle and family. They’ve been tending to their outstanding crops for over 25 years.<\/p><p>When the Del Valle family matriarch and legendary pillar of El Valle’s coffee production, María Eugenia passed on ownership of the farm to Marlon, his brother Rudelfi and family, a new generation of coffee farmers was born.<\/p>"
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        },
+        "ff810e37-4a75-4997-ae01-160c3fed1b86": {
+          "type": "size-chart",
+          "disabled": true,
+          "settings": {
+            "size_chart": ""
+          }
+        },
+        "a28526e7-c071-4caf-b1df-0e2e23fa80ab": {
+          "type": "form",
+          "settings": {}
+        },
+        "ad8cf62e-f851-4d81-bf10-0b01eff084cc": {
+          "type": "shopify:\/\/apps\/guarantees-features-icons\/blocks\/app-block\/f266baeb-ce2c-482c-9bf1-f719b4920aaa",
+          "disabled": true,
+          "settings": {
+            "block_id": "8b54e0cc-6e99-4b58-ac31-2e5008c7647d",
+            "spacing_top": 0,
+            "spacing_bottom": 0,
+            "spacing_left": 0,
+            "spacing_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "1b749fc8-a729-410b-adc8-e56656e31c9d",
+        "description",
+        "0cef518a-f335-4ac2-bda6-41336171d07c",
+        "share",
+        "ff810e37-4a75-4997-ae01-160c3fed1b86",
+        "a28526e7-c071-4caf-b1df-0e2e23fa80ab",
+        "ad8cf62e-f851-4d81-bf10-0b01eff084cc"
+      ],
+      "settings": {
+        "product_breadcrumb": true,
+        "media_position": "is-flex-row",
+        "set_product_height": false,
+        "product_height": 500,
+        "video_looping": false,
+        "product_thumbs": true,
+        "gallery_arrows": true,
+        "enable_product_lightbox": true,
+        "activate_zoom": true,
+        "slideshow_speed": 0,
+        "slideshow_animation": "slide",
+        "thumbnail_position": "bottom",
+        "enable_thumbnail_slider": true
+      }
+    },
+    "163764238153cec51a": {
+      "type": "apps",
+      "blocks": {
+        "52d14230-3d3b-40df-b426-ef6db4ec236c": {
+          "type": "shopify:\/\/apps\/guarantees-features-icons\/blocks\/app-block\/f266baeb-ce2c-482c-9bf1-f719b4920aaa",
+          "settings": {
+            "block_id": "ee098534-17fb-4022-87b5-2b8272aeb73b",
+            "spacing_top": 0,
+            "spacing_bottom": 0,
+            "spacing_left": 0,
+            "spacing_right": 0
+          }
+        }
+      },
+      "block_order": [
+        "52d14230-3d3b-40df-b426-ef6db4ec236c"
+      ],
+      "settings": {}
+    },
+    "1636334946679a44dc": {
+      "type": "image-text",
+      "blocks": {
+        "11da79b8-669b-493e-9f46-d1b6a56072e1": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.my_fields.primary_image.value }}",
+            "image_crop": "center",
+            "title": "Choose your Fighter",
+            "text": "<p>The Street Fighter is your one stop shop, and it's truly a versatile blend. Bold and aromatic, for those who love a little more complexity, with rich aromas and a long lasting flavour. <br\/><br\/>Using a blend of Peru and Honduras, expect a rich brew that's fragrant, with a hook of Blueberry, Cocoa and Mandarin.<br\/><br\/>It will be right at home in an espresso based coffee, and will satisfy even most discerning fans of steeps and filter brewing, from V60, to Aero Press and batch Brew.<\/p><p>Our Street Fighter will shine on both professional and home brewing equipment. So much so, you'll be using your keep cup at home.<\/p><p>We've done the hard work for you - Dial in your brew with our <a href=\"https:\/\/www.instagram.com\/rumblerecipes\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/rumblerecipes\/\">Rumble Recipes<\/a> and brew guides to get the most from your beans.<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff6ec",
+            "text_color": "#0a2240"
+          }
+        },
+        "1636334946679a44dc-1": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.my_fields.third_image.value }}",
+            "image_crop": "center",
+            "title": "What's in the blend?",
+            "text": "<p>For the processing of the Hernan Castro component of this blend, the coffee is picked ripe, then is dried on raised beds, leaving the fruit on the bean to “raisin-ify” - yes, much like a raisin or sultana! The best thing? Natural fermentation begins to occur, resulting in the creation of complex flavours, sugars, and a stunning coffee profile. <\/p><p>The Peru La Cima coffee is grown at the Cortez Family Farms; located on highlands that start at 1900 MASL and go all the way up to 2000 MASL. This results in a very sweet coffee, with notes of juicy plum, sweet cocoa body, and lingering passionfruit to finish. <\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff6ec",
+            "text_color": ""
+          }
+        },
+        "1636334946679a44dc-0": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.my_fields.secondary_image.value }}",
+            "image_crop": "none",
+            "title": "Better than ethically sourced",
+            "text": "<p>At Rumble, we pride ourselves on keeping you informed on every step of how we source our world-class coffee, and ensure we pay our farmers fairly so that we can all invest in a sustainable future.<br\/><br\/><a href=\"https:\/\/www.rumblecoffee.com.au\/pages\/2019\">We keep it 100% transparent with all the information on our supply chain, from who we bought it from to exactly how much we paid for it.<\/a><br\/><br\/>And our coffee is damn good. <br\/><br\/>You can read our annual reports on how Rumble is working to change the specialty coffee industry, 1 cup at a time.<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff6ec",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "11da79b8-669b-493e-9f46-d1b6a56072e1",
+        "1636334946679a44dc-1",
+        "1636334946679a44dc-0"
+      ],
+      "settings": {
+        "wide_display": true,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1638156556bf7ce5ca": {
+      "type": "sh-julia-testimonials-1",
+      "blocks": {
+        "53bb65d4-c25d-47c2-baf3-1ee171436d1e": {
+          "type": "testimonial",
+          "settings": {
+            "name": "- Laura S",
+            "title": "",
+            "content": "<p><strong>Perfect for espresso and filter!<\/strong><\/p><p><\/p><p><a href=\"https:\/\/stamped.io\/go\/d3xXaWRnZXRDYXJvdXNlbHwxOTM3NzB8cnw0NDAzMDI4Nw2\"><em>We couldn't survive without this coffee! It's incredibly delicious both as a rich, creamy espresso or with the fruity flavours brought out in a pour-over<\/em><\/a><\/p>"
+          }
+        },
+        "b860d139-7043-4d6b-8d32-fd8204a2198b": {
+          "type": "testimonial",
+          "settings": {
+            "name": "- Rohan L",
+            "title": "",
+            "content": "<p><a href=\"https:\/\/stamped.io\/go\/d3xXaWRnZXRDYXJvdXNlbHwxOTM3NzB8cnw0NTk1MzE2MQ2\"><strong>Sweet & Fruity Espresso<\/strong><\/a><br\/><a href=\"https:\/\/stamped.io\/go\/d3xXaWRnZXRDYXJvdXNlbHwxOTM3NzB8cnw0NTk1MzE2MQ2\"><em>This is my favourite espresso blend from Rumble because of it has a fruity flavour rather than chocolate\/caramel like most espresso blends<\/em><\/a><\/p>"
+          }
+        },
+        "ed247373-7d14-4a80-b3cf-134ad0f1336a": {
+          "type": "testimonial",
+          "settings": {
+            "name": "- Lauren S",
+            "title": "",
+            "content": "<p><strong>Morning Highlight<\/strong><\/p><p><em><br\/>Street Fighter is amazing and you’ve totally converted my husband and I from pods to the majestic aeropress.<\/em><\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "53bb65d4-c25d-47c2-baf3-1ee171436d1e",
+        "b860d139-7043-4d6b-8d32-fd8204a2198b",
+        "ed247373-7d14-4a80-b3cf-134ad0f1336a"
+      ],
+      "settings": {
+        "title": "WHAT OUR CUSTOMERS SAY",
+        "subtitle": "",
+        "col_per_row": 3,
+        "gap": "30",
+        "image_size": "60x60_crop_center",
+        "show_rating": true,
+        "variant": "style_1",
+        "margin_top": "",
+        "margin_bottom": ""
+      }
+    },
+    "16381578348ebd4900": {
+      "type": "image-text",
+      "blocks": {
+        "1638157834fd61442f-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_20_c11aad6c-610d-4c54-bcb6-ff18c2b44fcc.png",
+            "image_crop": "center",
+            "title": "Come rumble with us",
+            "text": "<p>Born and brewed in Melbourne’s west, our distinctive specialty coffee is roasted with passion and always ethically-sourced, with total transparency throughout your coffee’s long journey to your thirsty hands.<br\/><br\/>We craft delicious, unique blends and world class single origins for coffee lovers with a conscience, giving you an extraordinary cup of coffee with a story you can feel good about.<br\/><br\/>From our Guatemalan single origins to our hallmark Haymaker blend, Rumble delivers a barista quality coffee you’ll never forget.<br\/><br\/>We love what we do, and you’ll taste the difference. We promise it’ll be a knockout.<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff6ec",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "1638157834fd61442f-1"
+      ],
+      "settings": {
+        "wide_display": true,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row-reverse",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16369403615a4d0ec8": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "custom_html": "<div class=\"kaching-icon-block\" data-block-id=\"ee098534-17fb-4022-87b5-2b8272aeb73b\"><\/div>",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "163694429068fe5796": {
+      "type": "testimonial",
+      "disabled": true,
+      "blocks": {
+        "1636944289252b84a5-0": {
+          "type": "image",
+          "settings": {
+            "title": "What our customers say",
+            "testimonial": "<p><em>\"Absolutely obsessed with this coffee blend. It’s my new favourite everyday coffee at home.\" <\/em><\/p>",
+            "name": "Mark A.",
+            "store_name": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center",
+            "image": "shopify:\/\/shop_images\/Foot_image_for_customer_review.png",
+            "mobile_image_crop": "center",
+            "caption_content_background": "original"
+          }
+        }
+      },
+      "block_order": [
+        "1636944289252b84a5-0"
+      ],
+      "settings": {
+        "wide_display": true,
+        "testimonial_text_animation": "fadeInDown",
+        "testimonial_speed": 6,
+        "activate_adaptiveHeight": true,
+        "mobile_text_below_image": true,
+        "mobile_text_color": "#6f4747",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "product-reviews": {
+      "type": "product-reviews",
+      "settings": {}
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "rv_title": "Recently viewed products",
+        "rv_products_style": "grid",
+        "rv_max_display": 4,
+        "rv_per": 4,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_style": "grid",
+        "product_recommendations_heading": "You may also like",
+        "products_per_row": 4,
+        "recommended_products_limit": 4
+      }
+    },
+    "sidebar": {
+      "type": "product-sidebar",
+      "disabled": true,
+      "blocks": {
+        "7dfe3d64-3427-403b-8434-b7ec12609c4a": {
+          "type": "recently_viewed",
+          "settings": {
+            "sidebar_rv_title": "Recently Viewed",
+            "sidebar_rv_per": 3
+          }
+        }
+      },
+      "block_order": [
+        "7dfe3d64-3427-403b-8434-b7ec12609c4a"
+      ],
+      "settings": {
+        "toggle": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "163764238153cec51a",
+    "1636334946679a44dc",
+    "1638156556bf7ce5ca",
+    "16381578348ebd4900",
+    "16369403615a4d0ec8",
+    "163694429068fe5796",
+    "product-reviews",
+    "recently-viewed",
+    "recommendations",
+    "sidebar"
+  ]
+}

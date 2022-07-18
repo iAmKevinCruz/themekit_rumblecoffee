@@ -1,0 +1,127 @@
+{
+  "sections": {
+    "1646367660fff8b019": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Artboard_17_0583cd7c-1389-405c-9c7d-0986ce868906.png",
+        "pretext": "",
+        "title": "ESPRESSO BAR",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "translucent_text_box",
+        "mobile_image": "shopify:\/\/shop_images\/Artboard_19.png",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "page-template",
+      "settings": {}
+    },
+    "1646368804b84695e7": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16463679563a8f7e35": {
+      "type": "featured-text",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "content": "<p>In March 2021, we launched our very own espresso bar. Designed to showcase the very best coffee that Rumble Coffee Roasters has to offer, our cozy cafe just west of Melbourne CBD, offers a rotating menu of specialty coffee. Great coffee, which has been sourced and roasted with transparency and quality in mind, a friendly team, and delicious pastries courtesy of Cobb Lane. It's the perfect place to drop past for a coffee and bag of beans for home, all whilst getting a glimpse into the specialty coffee roasting world which Melbourne is known for.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "regular_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164636882301764efd": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164636882645233ace": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "custom_html": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164636897058ecfd93": {
+      "type": "text-columns-with-images",
+      "disabled": true,
+      "blocks": {
+        "1646368970e1a6b450-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "OPENING HOURS",
+            "heading_size": "regular_text",
+            "text": "<p>8:30 - 4:30 Monday - Friday<br\/>Saturday<br\/><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "1646368970e1a6b450-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Add a title or tagline",
+            "heading_size": "regular_text",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "1646368970e1a6b450-0",
+        "1646368970e1a6b450-1"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "1646367660fff8b019",
+    "main",
+    "1646368804b84695e7",
+    "16463679563a8f7e35",
+    "164636882301764efd",
+    "164636882645233ace",
+    "164636897058ecfd93"
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-template",
+      "disabled": true,
+      "settings": {}
+    },
+    "16435891565a5eaaf5": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Artboard_7.png",
+        "pretext": "",
+        "title": "OUR STORY",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "translucent_text_box",
+        "mobile_image": "shopify:\/\/shop_images\/Artboard_8.png",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164360299854d3ca7d": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164358955394f2f4be": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<p>Based in a bonafide brick warehouse conversion in Melbourne’s mighty west, Rumble Coffee Roasters is passionately dedicated to supplying knock-out coffee to businesses keen for service with soul.<\/p><p>We began Rumble with a vision to do things differently. After decades running some of Melbourne’s most awarded cafes and espresso bars, we were totally in love with specialty coffee. And yet, we felt that there was so much more that coffee roasters could be doing to support their cafes and the people from which they purchase coffee. <\/p><p>That’s how the Rumble difference was born: quality, consistency and a no-bullshit policy. We stand for a total commitment to transparency, relaxed and experienced service, and delicious coffees to boot.<br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16436030310865b2be": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16444638839cee7cce": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "164446388346de6a59-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "OUR COFFEE",
+            "heading_size": "regular_text",
+            "text": "<p>Knock-out blends and world class single origins. Bold espressos and flavour filled filter roasts. All sustainably and transparently sourced, so you can feel great about your coffee, knowing it's supporting farmers and their communities.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "164446388346de6a59-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "OUR GROWERS",
+            "heading_size": "regular_text",
+            "text": "<p>We pride ourselves on personal relationships with our producers and customers alike. Most importantly, we pay our farmers fairly so that they can invest in their land, their employees, and their communities; all in the name of a more sustainable future for all. <\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "1374a743-87df-4dd0-b27d-29e6d35bdfb9": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "OUR ETHICS",
+            "heading_size": "regular_text",
+            "text": "<p>Our core belief is that numbers don’t lie. Committed to sharing all possible information regarding the prices we pay for our world-class coffees, we get a buzz from arming fellow coffee lovers with the tasty truth about what’s in your cup of Rumble brew.  <\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "164446388346de6a59-0",
+        "164446388346de6a59-1",
+        "1374a743-87df-4dd0-b27d-29e6d35bdfb9"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1646178545bc556733": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16435897278d09fe95": {
+      "type": "image-text",
+      "blocks": {
+        "1643589727bcc4c2d2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5344.jpg",
+            "image_crop": "none",
+            "title": "WHOLESALE",
+            "text": "<p>Specialty coffee is our business, and we're passionate about helping our wholesale customers thrive. We supply cafes all over Australia, with exceptional coffee, knockout service, and quality training. Seeing our wholesale partners and cafes succeed is our primary goal, and our commitment is that we will bring the best possible coffee experience we can to your business.<\/p>",
+            "button_label": "LEARN MORE",
+            "link": "https:\/\/www.rumblecoffee.com.au\/pages\/wholesale-coffee",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "1643589727bcc4c2d2-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6046_copy.jpg",
+            "image_crop": "none",
+            "title": "RETAIL COFFEE",
+            "text": "<p>Specialty coffee, produced by a team of coffee roasters who live, breathe and love Melbourne's coffee scene. That's Rumble. Whatever your favourite brewing method is, we've got some of the best single origins and blends in Melbourne, and we'll ship it right to your door. <br\/><br\/>You can trust that our coffee has been sourced sustainably. We pay farmers well for their excellent coffee, we publish what we pay for each coffee, and we're doing our best to ensure we're looking after the planet in the process. <br\/>Specialty coffee, that's good for the world? Come Rumble with us.<\/p>",
+            "button_label": "SHOP NOW",
+            "link": "https:\/\/www.rumblecoffee.com.au\/collections\/coffee-blends-single-origin-coffee",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "efec67cd-97ef-4818-9a9a-7c2b86a42d01": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_dd4aeb4e-ac85-4bd7-b969-72fef3b2c858.png",
+            "image_crop": "none",
+            "title": "ESPRESSO BAR",
+            "text": "<p>Keen to try our coffee? The Rumble espresso bar, located in our Kensington roastery, is any coffee lovers' dream. Our little cafe is where we showcase our beans, and it's become a spot for specialty coffee in Melbourne. Here, you can get yourself a brew, or a bag of great coffee beans, whilst discovering more about the roasting process of Melbourne's best coffee.  <br\/><br\/>Drop by, we'd love to meet you, and share our love of excellent coffee!<\/p>",
+            "button_label": "VISIT",
+            "link": "https:\/\/www.google.com\/maps\/dir\/-37.7946112,144.932864\/google+maps+rumble+coffee\/@-37.7937091,144.9311452,17z\/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x6ad65d19ecdd4ffb:0x5f59d1c003840901!2m2!1d144.9344661!2d-37.7924395",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "f7a563e7-2f9d-4c3c-9101-7c6fbfaa0339": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6338_06c496ec-cfa4-4b65-9ba6-ae3e1b22ce34.jpg",
+            "image_crop": "none",
+            "title": "ZAC MC CRACKEN",
+            "text": "<p><strong>Dispatch and Delivery<\/strong><\/p><p>Zac heads up everything dispatch-related, and ensuring the seamless flow from the Rumble roastery to our cafes. When he's not busy sending out coffee orders or bagging beans, he spends his time in the world of music, DJ-ing his way around Melbourne, and volunteering for local community radio station, PBS. As well as DJ-ing, he also runs and organises club nights and dance music events.<\/p><p><em><strong>“I find one of the best ways to get to know a place is to find where all the best cafes are. Generally that’s where you find the cultural hubs and bustle of community. It’s interesting to me to see how differently coffee is consumed across the world and how much coffee culture can vary dependant on where you are.<\/strong><\/em><\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "b1a2cae8-b909-47b6-af17-c4dfd891e04d": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3646_copy_63ab1f6c-9178-4bfa-8754-fda0617b8b54.jpg",
+            "image_crop": "none",
+            "title": "Carly Beissel",
+            "text": "<p><strong>Roastery Assistant<\/strong><\/p><p>A true all-rounder, you'll often find Carly bagging beans alongside Zac, running deliveries to our many wholesale customers, or assisting in our espresso bar. On her days off, Carly studies engineering, and explores the best brunch and adventure spots around Melbourne.<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        },
+        "361058a3-5962-4072-9b30-973a0402310f": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4759_fcae44ec-8d06-476f-8e59-a2e476250459.jpg",
+            "image_crop": "none",
+            "title": "NATSUMI SHIMADA",
+            "text": "<p><strong>Espresso Bar Manager<\/strong><\/p><p>Natsumi is the newest addition to our team, and she heads up the espresso bar at the Rumble roastery. Natsumi is a true coffee aficionado, who makes each coffee with care and skill. When she's not at Rumble HQ, you'll find her exploring cafes around Melbourne or practising yoga.<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "#fff7ee",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "1643589727bcc4c2d2-0",
+        "1643589727bcc4c2d2-1",
+        "efec67cd-97ef-4818-9a9a-7c2b86a42d01",
+        "f7a563e7-2f9d-4c3c-9101-7c6fbfaa0339",
+        "b1a2cae8-b909-47b6-af17-c4dfd891e04d",
+        "361058a3-5962-4072-9b30-973a0402310f"
+      ],
+      "settings": {
+        "wide_display": true,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1643589790faf9939a": {
+      "type": "text-columns-with-images",
+      "disabled": true,
+      "blocks": {
+        "164358979045d6a1f1-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IMG_6344.jpg",
+            "title": "JOE MOLLOY",
+            "heading_size": "regular_text",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "164358979045d6a1f1-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "title": "Add a title or tagline",
+            "heading_size": "regular_text",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "164358979045d6a1f1-0",
+        "164358979045d6a1f1-1"
+      ],
+      "settings": {
+        "title": "Text columns with images",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16435891565a5eaaf5",
+    "164360299854d3ca7d",
+    "164358955394f2f4be",
+    "16436030310865b2be",
+    "16444638839cee7cce",
+    "1646178545bc556733",
+    "16435897278d09fe95",
+    "1643589790faf9939a"
+  ]
+}

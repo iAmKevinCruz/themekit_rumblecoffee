@@ -1,0 +1,175 @@
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "blocks": {
+        "e44dc892-d3f8-440a-94cd-f2aea59d41f9": {
+          "type": "recent_posts",
+          "settings": {
+            "blog_post_count": "10"
+          }
+        },
+        "3a740523-c5e0-431b-a460-c491e5e393e3": {
+          "type": "menu",
+          "settings": {
+            "custom_menu_linklist": "footer"
+          }
+        },
+        "fe1940aa-0891-4b2a-9309-c95bc917d830": {
+          "type": "newsletter",
+          "settings": {
+            "newsletter_title": "Subscribe",
+            "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more<\/p>"
+          }
+        },
+        "5faec6bb-8e8e-4681-bf2f-ac9a8a367940": {
+          "type": "page",
+          "disabled": true,
+          "settings": {
+            "content_page": ""
+          }
+        }
+      },
+      "block_order": [
+        "e44dc892-d3f8-440a-94cd-f2aea59d41f9",
+        "3a740523-c5e0-431b-a460-c491e5e393e3",
+        "fe1940aa-0891-4b2a-9309-c95bc917d830",
+        "5faec6bb-8e8e-4681-bf2f-ac9a8a367940"
+      ],
+      "settings": {
+        "featured_image": "none",
+        "wide_display": true,
+        "mobile_image_crop": "right",
+        "caption_content_background": "original",
+        "blog_breadcrumb": true,
+        "blog_pagination": true,
+        "blog_tags": false,
+        "blog_byline": false,
+        "read_time": true,
+        "blog_date": true,
+        "blog_author": false,
+        "display_social_buttons": false,
+        "blog_comment_count": true,
+        "blog_additional_posts": false,
+        "read_more_link": true,
+        "toggle": true
+      }
+    },
+    "16457440213370da90": {
+      "type": "sh-julia-hero-2",
+      "disabled": true,
+      "settings": {
+        "title": "Product promo",
+        "subtitle": "",
+        "content": "",
+        "image_size": "2000x500_crop_center",
+        "button_string": "Start shopping",
+        "link": "",
+        "inverted": false,
+        "backed": false,
+        "variant": "left_text",
+        "padding_top": "",
+        "padding_bottom": "",
+        "margin_top": "",
+        "margin_bottom": ""
+      }
+    },
+    "1647561971c8ce27cf": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "16475619716ee2a72c-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "VISIT",
+            "heading_size": "regular_text",
+            "text": "<p><a href=\"https:\/\/goo.gl\/maps\/Btt5SBqfkGFVJMrcA\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/Btt5SBqfkGFVJMrcA\">2 Lydiard St S<br\/>Ballarat Central <br\/>VIC<\/a><\/p><p><a href=\"https:\/\/www.instagram.com\/cobbscoffee\/?hl=en\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/cobbscoffee\/?hl=en\">@cobbscoffee<br\/><\/a><a href=\"https:\/\/cobbscoffee.com.au\" title=\"https:\/\/cobbscoffee.com.au\">www.cobbscoffee.com.au<\/a><\/p><p><\/p><p><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "16475619716ee2a72c-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Menu",
+            "heading_size": "regular_text",
+            "text": "<p>Rumble Coffee<br\/>Retail Brew Gear<br\/>Pastries<br\/>House-Made Sangas<\/p><p><a href=\"https:\/\/files.cargocollective.com\/c940304\/Cobb-s-Coffee-Menu-v2.pdf\" title=\"https:\/\/files.cargocollective.com\/c940304\/Cobb-s-Coffee-Menu-v2.pdf\">Menu <\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "4af17b85-29e4-499a-8bfd-2851eb52fe09": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "hours",
+            "heading_size": "regular_text",
+            "text": "<p>Monday-Friday: 6:30-2<br\/>Saturday: 7:30-2<\/p><p>Closed Sundays<br\/>Closed Public Holidays<\/p><p><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "16475619716ee2a72c-0",
+        "16475619716ee2a72c-1",
+        "4af17b85-29e4-499a-8bfd-2851eb52fe09"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16475622356384add6": {
+      "type": "sh-julia-testimonials-1",
+      "disabled": true,
+      "blocks": {
+        "b149ce80-ed75-4a36-b9e7-c4b72497a50c": {
+          "type": "testimonial",
+          "settings": {
+            "name": "",
+            "title": "",
+            "content": "<p>WHAT\"S ON THE MENU<\/p>"
+          }
+        },
+        "77e75b51-0d7f-414a-815b-e2b3296ea8b9": {
+          "type": "testimonial",
+          "settings": {
+            "name": "Name",
+            "title": "Title",
+            "content": "<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "b149ce80-ed75-4a36-b9e7-c4b72497a50c",
+        "77e75b51-0d7f-414a-815b-e2b3296ea8b9"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "subtitle": "",
+        "col_per_row": 3,
+        "gap": "30",
+        "image_size": "60x60_crop_center",
+        "show_rating": false,
+        "variant": "style_1",
+        "margin_top": "",
+        "margin_bottom": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16457440213370da90",
+    "1647561971c8ce27cf",
+    "16475622356384add6"
+  ]
+}

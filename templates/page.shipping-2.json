@@ -1,0 +1,241 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-faq-template",
+      "blocks": {
+        "block-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "FAQ"
+          }
+        },
+        "888c670a-5543-4c44-8b8f-a829c60bf066": {
+          "type": "Content",
+          "settings": {
+            "title": "Where are you located?",
+            "subtitle": "<p>Rumble HQ is located at 8 Thompson Street, Kensington VIC where all our coffee is roasted. Come say hi!<\/p>"
+          }
+        },
+        "block-2": {
+          "type": "Content",
+          "settings": {
+            "title": "Where do Rumble Ship?",
+            "subtitle": "<p>Rumble coffee ships globally. Where ever you are, we can get your coffee to you.<\/p>"
+          }
+        },
+        "block-3": {
+          "type": "Content",
+          "settings": {
+            "title": "How long will it take for my order to be dispatched?",
+            "subtitle": "<p>We roast and ship Monday - Thursday. <\/p><p>Rumble coffee is generally dispatched the following business day after it is received.<\/p><p>Please check with us if the order is super urgent just in case. OR come visit us at - 8 Thompson Street, Kensington.<\/p>"
+          }
+        },
+        "5757962f-5c7e-4de9-8d38-a66ff4ad9ec8": {
+          "type": "Content",
+          "settings": {
+            "title": "How much is shipping?",
+            "subtitle": "<p>We offer free shipping in AUS for all orders over $60. <\/p><p>For all other shipping rates, we'll calculate shipping at the checkout once you enter your address.<\/p>"
+          }
+        },
+        "block-6": {
+          "type": "Content",
+          "settings": {
+            "title": "Who do Rumble use to ship orders?",
+            "subtitle": "<p>We use a range of suppliers based on your location and shipping needs including Aus Post, Couriers Please, TNT and local delivery services to get your order to you as quickly as possible.<\/p>"
+          }
+        },
+        "block-4": {
+          "type": "Content",
+          "settings": {
+            "title": "My coffee hasn't shown up, what do I do?",
+            "subtitle": "<p>Due to Covid-19 and various issues this has produced within the shipping industry, we are experiencing shipping delays more frequently than we used to. <br\/>If you are concerned with the length of time it's taking to receive your coffee, we recommend you use your tracking number, and contact the courier service noted in your shipping email.  If this does not resolve the concern, contact us at info@rumblecoffee.com.au with your order number, and tracking number, and we'll see what we can do! <\/p>"
+          }
+        },
+        "block-5": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Subscriptions"
+          }
+        },
+        "block-7": {
+          "type": "Content",
+          "disabled": true,
+          "settings": {
+            "title": "Am I locked in for a certain amount of time?",
+            "subtitle": "<p>All our ongoing subscriptions have no lock in period.<br\/><br\/>You can pause, cancel or change your delivery frequency at any time, or change to a different blend or single origin whenever you like through the subscription management portal.<\/p>"
+          }
+        },
+        "block-8": {
+          "type": "Content",
+          "disabled": true,
+          "settings": {
+            "title": "How can I update my delivery details?",
+            "subtitle": "<p>You can change your billing and delivery details in the subscription management portal, or drop us an email hello@rumblecoffee.com.au and we'll update it for you<\/p>"
+          }
+        },
+        "33c7f3b6-f4eb-4fe6-bdb0-87ab7b09735a": {
+          "type": "Content",
+          "disabled": true,
+          "settings": {
+            "title": "Are all Rumble Coffees available on Subscription?",
+            "subtitle": "<p>Our espresso blends - Haymaker, Street Fighter, Shadowboxer and our Single Origin Decaf - are available all the time. <br\/><br\/>Our single origin espresso and filter coffees are rotated regularly, so a subscription will have one of our latest roasts shipped and is based on what’s newest, most interesting or a team favourite for the month. We typically have a new one added each month.<br\/><br\/>Just pick your coffee, and then choose your size (250kg or 1kg), select your delivery frequency, and Grind Style (Whole beans, stove top, espresso, aeropress, filter) and you're good to go.<\/p>"
+          }
+        },
+        "2e63527d-29dc-40ea-8e69-901a140645bd": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Coffee"
+          }
+        },
+        "4a37ebd8-3832-4ec8-8e58-f68cfd4968cb": {
+          "type": "Content",
+          "disabled": true,
+          "settings": {
+            "title": "Where do you source your coffee?",
+            "subtitle": "<p>We source our specialty grade coffee beans from the best growing regions in the world including: Brazil, Colombia, Ethiopia, Burundi, Guatemala, Kenya, Papua New Guinea and more.<br\/><br\/>Our single origin offerings  rotate through each growing region based on seasonality and availability.<\/p>"
+          }
+        },
+        "bc62911a-3ec8-44a2-ade9-aec855c08ff4": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Transparency Project"
+          }
+        },
+        "16f0f498-2dc6-4f08-b096-f3042a4917c1": {
+          "type": "Content",
+          "disabled": true,
+          "settings": {
+            "title": "What does transparent trade mean?",
+            "subtitle": "<p>For us, transparent trade means paying a fair price to coffee producers, and publishing all our pricing costs and data with you.<br\/><br\/>To read more about our commitment to sustainability and transparent coffee pricing, check out most recent <a href=\"\/pages\/2020-transparency-report\" title=\"2020 Transparency Report\">Transparency Report<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "888c670a-5543-4c44-8b8f-a829c60bf066",
+        "block-2",
+        "block-3",
+        "5757962f-5c7e-4de9-8d38-a66ff4ad9ec8",
+        "block-6",
+        "block-4",
+        "block-5",
+        "block-7",
+        "block-8",
+        "33c7f3b6-f4eb-4fe6-bdb0-87ab7b09735a",
+        "2e63527d-29dc-40ea-8e69-901a140645bd",
+        "4a37ebd8-3832-4ec8-8e58-f68cfd4968cb",
+        "bc62911a-3ec8-44a2-ade9-aec855c08ff4",
+        "16f0f498-2dc6-4f08-b096-f3042a4917c1"
+      ],
+      "settings": {
+        "wide_display": true,
+        "show_banner": true,
+        "image": "shopify:\/\/shop_images\/Web_Banner_-_FAQ_-_Desktop.png",
+        "mobile_image": "shopify:\/\/shop_images\/Web_Banner_-_FAQ_-_Mobile.png",
+        "mobile_image_crop": "none",
+        "caption_content_background": "translucent_text_box",
+        "pretext": "",
+        "title": "SHIPPING",
+        "subtitle": "",
+        "text_position": "center",
+        "text_align": "center",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner"
+      }
+    },
+    "164541692476a82d6e": {
+      "type": "faq",
+      "disabled": true,
+      "blocks": {
+        "16454169235d2b83c9-0": {
+          "type": "heading",
+          "settings": {
+            "faq_title": "Wholesale"
+          }
+        },
+        "16454169235d2b83c9-1": {
+          "type": "content",
+          "settings": {
+            "title": "Are the MOQ's for Wholesale coffee?",
+            "answer": "<p>We offer wholesale pricing, supply and service solutions from 5kg+ per order. <\/p><p>Get in touch with via our wholesale enqiury form, or info@rumblecoffee.com.au <\/p>"
+          }
+        },
+        "16454169235d2b83c9-2": {
+          "type": "content",
+          "settings": {
+            "title": "Are Rumble wholesale customers locked into any contracts",
+            "answer": "<p>Not at all. <\/p><p>We do not believe in wholesale contracts, or locking our customer down. <\/p><p>We’d rather ensure your ongoing customer via our consistent high quality coffees and experienced personal service and support.<\/p>"
+          }
+        },
+        "16454169235d2b83c9-3": {
+          "type": "content",
+          "settings": {
+            "title": "Do you offer contract roasting?",
+            "answer": "<p>For sure. We offer a range of custom sourcing, roast and even branding options for your business, and <a href=\"\/pages\/contract-private-label-coffee-roasting\" title=\"Contract & Private Label Roasting\">support both private label and contract roasting<\/a><\/p>"
+          }
+        },
+        "16454169235d2b83c9-4": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "faq_title": "Section heading"
+          }
+        },
+        "16454169235d2b83c9-5": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "16454169235d2b83c9-6": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "16454169235d2b83c9-7": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "16454169235d2b83c9-8": {
+          "type": "image",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "16454169235d2b83c9-0",
+        "16454169235d2b83c9-1",
+        "16454169235d2b83c9-2",
+        "16454169235d2b83c9-3",
+        "16454169235d2b83c9-4",
+        "16454169235d2b83c9-5",
+        "16454169235d2b83c9-6",
+        "16454169235d2b83c9-7",
+        "16454169235d2b83c9-8"
+      ],
+      "settings": {
+        "title": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "164541692476a82d6e"
+  ]
+}
