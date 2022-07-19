@@ -41,7 +41,7 @@
       {%- assign image = block.settings.image -%}
       {% comment %} End content settings {% endcomment %}
 
-      <div class="{% render 'column-width', value: blocks.size %} column {% if blocks.size > 3 %}medium-down--one-half{% else %}medium-down--one-whole{% endif %} text-column" {{ block.shopify_attributes }}>
+      <div id="block--{{block.id}}" class="link-card {% render 'column-width', value: blocks.size %} column {% if blocks.size > 3 %}medium-down--one-half{% else %}medium-down--one-whole{% endif %} text-column" {{ block.shopify_attributes }}>
         <div class="border-style--{{ block.settings.border_style }} text-align--{{ block.settings.align_text }}">
         {% if block.settings.enable_image %}
           {% if image != blank %}
@@ -72,6 +72,21 @@
         {% endif %}
         </div>
       </div>
+
+      {% unless block.settings.card_link == blank %}
+        <script>
+          document.getElementById("block--{{block.id}}").onclick = function(){
+            location.href = "{{ block.settings.card_link }}";
+          }
+          console.log("card: {{block.id}}");
+          console.log("card url: {{block.settings.card_link}}");
+          </script>
+          <style>
+            #block--{{block.id}}:hover{
+              cursor: pointer;
+            }
+          </style>
+      {% endunless %}
     {% endfor %}
   </div>
 </section>
@@ -87,11 +102,6 @@
       "label": "Heading",
       "default": "Custom Text Column"
     },
-{
-          "type": "url",
-          "id": "image_link",
-          "label": "Image link"
-        },
     {
       "type": "header",
       "content": "Advanced"
@@ -130,19 +140,14 @@
         },
 {
           "type": "url",
-          "id": "image_link",
-          "label": "Image link"
+          "id": "card_link",
+          "label": "Grid/Card Link"
         },
         {
           "type": "text",
           "id": "title",
           "label": "Heading",
           "default": "Add a title or tagline"
-        },
-{
-          "type": "url",
-          "id": "text_link",
-          "label": "Text link"
         },
         {
           "type": "select",
