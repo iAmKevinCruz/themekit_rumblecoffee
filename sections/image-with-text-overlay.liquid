@@ -31,6 +31,9 @@
   id="banner-{{ section.id }}"
   class="
     section
+    {% if section.settings.wide_display_mobile %}
+      is-width-wide-mobile
+    {% endif %}
     {% if section.settings.wide_display == false %}
       is-width-standard
     {% else %}
@@ -158,6 +161,12 @@
       "id": "wide_display",
       "label": "Wide display",
       "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "wide_display_mobile",
+      "label": "Wide display - mobile only",
+      "default": false
     },
     {
       "type": "image_picker",

@@ -217,7 +217,9 @@
 
     {% if collection.previous_product %}<link rel="prev" href="{{ collection.previous_product }}">{% endif %}
     {% if collection.next_product %}<link rel="next" href="{{ collection.next_product }}">{% endif %}
-  {{ 'sectionhub.scss.css' | asset_url | stylesheet_tag }}</head>
+  {{ 'sectionhub.scss.css' | asset_url | stylesheet_tag }}
+  {{ 'custom.scss.css' | asset_url | stylesheet_tag }}
+</head>
 
   {% if template contains "index" %}
     {% assign feature_image = true %}

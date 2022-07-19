@@ -1,0 +1,149 @@
+// EDITING THE sh-julia-collections-4.liquid SECTION
+.sh-julia-collections-4 .sh-row .sh-col .sh-collection .sh-data{
+    width: 60% !important;
+    height: fit-content;
+    padding: 25px 30px;
+    left: 0 !important;
+    background-color: rgba(15, 44, 78, 0.7);
+    
+    @media only screen and (max-width:599px){
+        padding: 15px 30px;
+    }
+    @media only screen and (max-width:749px){
+        top: 0 !important;
+        width: 100% !important;
+    }
+}
+
+.sh-julia-collections-4{
+    @media only screen and (max-width:749px){
+        margin-top: 30px !important;
+        margin-bottom: 30px !important;
+    }
+}
+
+.sh-container{
+    @media only screen and (max-width:749px){
+        max-width: none;
+        padding: 0;
+        
+    }
+}
+
+.sh-julia-collections-4 .sh-row .sh-col .sh-collection .sh-data .sh-header .sh-title{
+    font-size: 20px !important;
+    @media only screen and (min-width:750px){
+        font-size: 24px !important;
+    }
+    
+}
+
+.sh-julia-collections-4 .sh-row .sh-col:first-child .sh-collection .sh-media .sh-image{
+    @media only screen and (max-width:749px){
+        min-width: -webkit-fill-available;
+    }
+}
+
+// Give the 4:3 aspect ratio to the first box
+.sh-julia-collections-4 .sh-row .sh-col .sh-collection{
+    @media only screen and (max-width:749px){
+        padding-bottom: 75% !important;
+        width: 100%;
+        overflow: hidden;
+        
+        .sh-media{
+            position: absolute !important;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+        }
+    }
+    
+}
+
+.sh-julia-collections-4 .sh-row .sh-col:first-child{
+    @media only screen and (max-width:749px){
+        padding-bottom: 15px !important;
+    }
+
+}
+
+// image of the other two
+.sh-julia-collections-4 .sh-row .sh-col:last-child:not(:first-child) .sh-collection .sh-media .sh-image{
+    @media only screen and (max-width:749px){
+        position: absolute !important;
+        left: 50% !important;
+        top: 50% !important;
+        transform: translate(-50%,-50%) !important;
+        object-fit: cover !important;
+    }
+}
+
+// <a> tag of the other two
+.sh-julia-collections-4 .sh-row .sh-col:last-child:not(:first-child) .sh-collection{
+    @media only screen and (max-width:749px){
+        padding-bottom: 50% !important;
+    }
+}
+
+// <a> > media div tag of the other two
+.sh-julia-collections-4 .sh-row .sh-col:last-child:not(:first-child) .sh-collection:first-child{
+    @media only screen and (max-width:749px){
+        margin-bottom: 15px;
+    }
+}
+
+.sh-col p{
+    margin: 0;
+    font-size: 12px;
+    @media only screen and (min-width:750px){
+        font-size: 13px;
+    }
+    
+}
+
+.sh-julia-collections-4 .sh-row{
+}
+
+// picture to make wide on mobile only
+.is-width-wide-mobile{
+    @media only screen and (max-width:749px){
+        width: 100%;
+
+        .container{
+            width: 100%;
+            max-width: 100%;
+            .column{
+                margin-left: 0;
+                margin-right: 0;
+                width: 100%;
+            }
+        }
+    }
+}
+
+/*
+    SUBSCRIPTION PAGE
+*/
+.sh-julia-hero-2{
+    .sh-subtitle{
+        font-size: 13px !important;
+        margin-bottom: 20px !important;
+    }
+    .sh-content{
+        font-size: 13px !important;
+    }
+    .sh-title{
+        font-size: 32px !important;
+    }
+
+    @media only screen and (min-width:800px){
+        margin: 0 34px;
+    }
+
+}
+
+.sh-julia-hero-2.sh-backed .sh-data{
+    // opacity: .9;
+}

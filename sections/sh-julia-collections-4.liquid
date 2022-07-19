@@ -45,6 +45,7 @@
               {{collection.description | strip_html | truncatewords: 20, '...'}}
             </div>
             {% endunless %}
+
             <div class="sh-footer">
               <div class="sh-button">
               <span class="sh-text">{{section.settings.button_string}}</span>
@@ -129,13 +130,15 @@
                 </div>
               {% endunless %}
             {% endunless %}
-            
+            {%- comment -%}
+            ** COMMENTED OUT TO REMOVE THE ARROW ON THE HOME SCREEN. MATCHING THE FIGMA DESIGN PROVIDED
             <div class="sh-footer">
               <div class="sh-button">
               <span class="sh-text">{{section.settings.button_string}}</span>
               <span class="sh-icon">{% render 'sh-julia-icon' with '003' %}</span>
               </div>
             </div>              
+            {%- endcomment -%}
           </div>
         </a>
               
