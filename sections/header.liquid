@@ -486,6 +486,25 @@
       </div>
     </div>
 
+    <script>
+      $(function(){
+          $(window).scroll(function(){
+              if($(this).scrollTop() > 100){
+                  $('header').addClass('fixed-header');
+              }
+              else{
+                  $('header').removeClass('fixed-header');
+              }
+          });
+      });
+    </script>
+
+    <style>
+      .sticky_nav .header__logo img{
+        max-width: 50px;
+      }
+    </style>
+
     <div class="main-nav__wrapper">
       <div class="main-nav menu-position--{{ section.settings.menu_position }} logo-alignment--{{ section.settings.logo_alignment }} logo-position--{{ section.settings.logo_position }} search-enabled--{{ section.settings.search_enabled }}" {% if section.settings.dropdown_click == true %}data-show-dropdown-on-click{% endif %}>
         {% capture logo %}
