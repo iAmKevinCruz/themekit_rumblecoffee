@@ -10,8 +10,23 @@
         padding: 15px 30px;
     }
     @media only screen and (max-width:749px){
+        position: relative !important;
         top: 0 !important;
         width: 100% !important;
+        background-color: white !important;
+    }
+}
+
+.sh-title{
+    @media only screen and (max-width:749px){
+        color: rgb(15, 44, 78) !important;
+    }
+}
+
+.sh-content{
+    @media only screen and (max-width:749px){
+        color: rgb(15, 44, 78) !important;
+        margin-top: 5px !important;
     }
 }
 
@@ -45,14 +60,20 @@
 }
 
 // Give the 4:3 aspect ratio to the first box
+// Give the 4:3 aspect ratio to all boxes
 .sh-julia-collections-4 .sh-row .sh-col .sh-collection{
     @media only screen and (max-width:749px){
-        padding-bottom: 75% !important;
-        width: 100%;
-        overflow: hidden;
+        // padding-bottom: 75% !important;
+        // padding-bottom: 75% !important;
+        // width: 100%;
+        // overflow: hidden;
         
         .sh-media{
-            position: absolute !important;
+            padding-bottom: 50% !important;
+            width: 100%;
+            overflow: hidden !important;
+            // position: absolute !important;
+            position: relative !important;
             top: 0;
             bottom: 0;
             left: 0;
@@ -64,13 +85,15 @@
 
 .sh-julia-collections-4 .sh-row .sh-col:first-child{
     @media only screen and (max-width:749px){
-        padding-bottom: 15px !important;
+        // padding-bottom: 15px !important;
+        padding-bottom: 0px !important;
     }
 
 }
 
 // image of the other two
-.sh-julia-collections-4 .sh-row .sh-col:last-child:not(:first-child) .sh-collection .sh-media .sh-image{
+// image of all three
+.sh-julia-collections-4 .sh-row .sh-col .sh-collection .sh-media .sh-image{
     @media only screen and (max-width:749px){
         position: absolute !important;
         left: 50% !important;
@@ -80,17 +103,21 @@
     }
 }
 
-// <a> tag of the other two
-.sh-julia-collections-4 .sh-row .sh-col:last-child:not(:first-child) .sh-collection{
+// sh-media div tag of the other two
+.sh-julia-collections-4 .sh-row .sh-col:last-child:not(:first-child) .sh-collection .sh-media{
     @media only screen and (max-width:749px){
         padding-bottom: 50% !important;
     }
 }
 
 // <a> > media div tag of the other two
-.sh-julia-collections-4 .sh-row .sh-col:last-child:not(:first-child) .sh-collection:first-child{
+// .sh-julia-collections-4 .sh-row .sh-col:last-child:not(:first-child) .sh-collection:first-child{
+.sh-julia-collections-4 .sh-row .sh-col:last-child:not(:first-child) .sh-collection{
     @media only screen and (max-width:749px){
-        margin-bottom: 15px;
+        // padding-bottom: 50% !important;
+        // margin-bottom: 15px;
+        margin-bottom: 0px;
+        padding: 0px !important;
     }
 }
 
