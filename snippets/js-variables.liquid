@@ -126,10 +126,17 @@ window.Shopify.translation.no_results = "{{ 'general.search.no_results' | t }}";
 ================================================== */ {% endcomment %}
 window.Shopify.media_queries = window.Shopify.media_queries || {};
 window.Shopify.media_queries.small = window.matchMedia( "(max-width: 480px)" );
-window.Shopify.media_queries.medium = window.matchMedia( "(max-width: 798px)" );
-window.Shopify.media_queries.large = window.matchMedia( "(min-width: 799px)" );
-window.Shopify.media_queries.larger = window.matchMedia( "(min-width: 960px)" );
-window.Shopify.media_queries.xlarge = window.matchMedia( "(min-width: 1200px)" );
+window.Shopify.media_queries.medium = window.matchMedia( "(max-width: 1118px)" );
+window.Shopify.media_queries.large = window.matchMedia( "(min-width: 1119px)" );
+window.Shopify.media_queries.larger = window.matchMedia( "(min-width: 1200px)" );
+window.Shopify.media_queries.xlarge = window.matchMedia( "(min-width: 1400px)" );
+{%- comment -%}
+COMMENTED OUT AND CHANGED ORIGINAL VALUES IN ORDER TO PREVENT THE DESKTOP NAV MENU FROM STACKING. INCREASED THE MAX-WIDTH TO ACTIVATE MOBILE MENU TO 1118PX
+    window.Shopify.media_queries.medium = window.matchMedia( "(max-width: 798px)" );
+    window.Shopify.media_queries.large = window.matchMedia( "(min-width: 799px)" );
+    window.Shopify.media_queries.larger = window.matchMedia( "(min-width: 960px)" );
+    window.Shopify.media_queries.xlarge = window.matchMedia( "(min-width: 1200px)" );
+{%- endcomment -%}
 window.Shopify.media_queries.ie10 = window.matchMedia( "all and (-ms-high-contrast: none), (-ms-high-contrast: active)" );
 window.Shopify.media_queries.tablet = window.matchMedia( "only screen and (min-width: 799px) and (max-width: 1024px)" );
 

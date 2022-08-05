@@ -5370,7 +5370,10 @@ input[type=button].guest_button {
   bottom: 0;
   left: 0;
 }
-@media only screen and (max-width: 798px) {
+
+/* INCREASED THE MAX-WIDTH TO PREVENT DESKTOP MENU ITEMS FROM STACKING */
+/* @media only screen and (max-width: 798px) { */
+@media only screen and (max-width: 1118px) {
   .dropdown_container {
     position: relative;
     bottom: initial;
@@ -14677,8 +14680,11 @@ div.collection_title_tags {
     padding-right: 5px;
   }
 }
+
+/* INCREASED THE MAX-WIDTH TO PREVENT DESKTOP MENU ITEMS FROM STACKING */
 /* All Mobile Sizes (devices and browser) */
-@media only screen and (max-width: 798px) {
+/* @media only screen and (max-width: 798px) { */
+@media only screen and (max-width: 1118px) {
   .article_image {
     padding-bottom: 0;
   }
