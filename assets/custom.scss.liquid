@@ -152,11 +152,50 @@
         }
     }
 }
+.sh-container .column{
+    margin: 0;
+    width: 100%;
+}
+.caption.position-left{
+    padding: 0;
+    height: 100%;
+
+    .caption-content{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    @media only screen and (min-width:750px){
+        // padding: 0;
+        margin: 0;
+        // height: 100%;
+        
+        .caption-content{
+            // height: 100%;
+            max-width: 280px;
+        }
+    }
+}
 
 /*
     SUBSCRIPTION PAGE
 */
+#shopify-section-template--14368449167463__1638753584583f1e1d{
+    @media only screen and (max-width:1199px){
+        padding: 0 10px !important;
+    }
+}
 .sh-julia-hero-2{
+    width: 95%;
+    max-width: 1180px;
+    margin: auto;
+
+
     .sh-data{
         // padding: 30px 50px !important;
         padding: 30px 40px !important;
@@ -174,7 +213,8 @@
     }
     
     @media only screen and (min-width:800px){
-        margin: 0 34px;
+        // margin: 0 34px;
+        margin: auto;
     }
     
 }
@@ -183,8 +223,26 @@
     NAV MENU
 */
 .sticky_nav .header__logo img{
-    max-width: 50px;
+    max-width: 35px !important;
 }
+
+.cart-container .mini_cart{
+    height: 40px !important;
+}
+
+.sticky_nav .search-container{
+    padding: 0;
+}
+
+.menu a, .menu a:visited, .menu a:active, #header span.menu_title, .menu a span, select.currencies, .mini_cart span{
+    padding: 0;
+}
+
+.logo-position--left .header__logo{
+    padding: 0;
+}
+
+
 
 .main-nav{
     @media only screen and (max-width:1118px){

@@ -27,9 +27,11 @@
   {% endif %}
 </style>
 
+{%- comment -%}ADDED THE SH-CONTAINER CLASS TO MAKE IT MATCH WIDTHS WITH THE ABOVE 3 BLOCK CUSTOM SECTION{%- endcomment -%}
 <section
   id="banner-{{ section.id }}"
   class="
+    sh-container
     section
     {% if section.settings.wide_display_mobile %}
       is-width-wide-mobile
