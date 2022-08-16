@@ -31,12 +31,12 @@
 }
 
 .sh-julia-collections-4{
-    margin-top: 40px !important;
+    margin-top: 0px !important; 
     margin-bottom: 40px !important;
     @media only screen and (max-width:749px){
         // margin-top: 40px !important;
         // margin-bottom: 30px !important;
-        margin: 15px 0 0 !important;
+        // margin: 40px 0 0 !important;
     }
 }
 
@@ -156,6 +156,17 @@
     margin: 0;
     width: 100%;
 }
+.caption {
+    .subtitle{
+        text-transform: none;
+        font-family: 'Montserrat' !important;
+        font-weight: 400 !important;
+    }
+    a{
+        font-weight: 400;
+    }
+}
+
 .caption.position-left{
     padding: 0;
     height: 100%;
@@ -168,6 +179,10 @@
         height: 100%;
         width: 100%;
         max-width: 100%;
+        @media only screen and (min-width:750px){
+            align-items: start;
+            text-align: left;
+        }
     }
 
     @media only screen and (min-width:750px){
@@ -199,7 +214,11 @@
     .sh-data{
         // padding: 30px 50px !important;
         padding: 30px 40px !important;
-        max-width: 280px;
+        // max-width: 280px;
+        max-width: 450px;
+        @media only screen and (min-width:450px){
+            padding: 30px 70px !important;
+        }
     }
     .sh-subtitle{
         font-size: 13px !important;
@@ -220,10 +239,14 @@
 }
 
 /*
-    NAV MENU
+NAV MENU
 */
 .sticky_nav .header__logo img{
     max-width: 35px !important;
+}
+
+#header a.mobile_logo img{
+    max-width: 175px;
 }
 
 .cart-container .mini_cart{
@@ -236,6 +259,10 @@
 
 .menu a, .menu a:visited, .menu a:active, #header span.menu_title, .menu a span, select.currencies, .mini_cart span{
     padding: 0;
+    @media only screen and (max-width:1118px){
+        padding: 12px 0;
+    }
+
 }
 
 .logo-position--left .header__logo{
